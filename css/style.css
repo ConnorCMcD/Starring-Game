@@ -3,10 +3,12 @@ html {
 }
 body { 
     height:100%;
+    display: -webkit-flex;
     display: flex;
     flex-flow: column;
     background-color: #222222;
-    color: #DDDDDD
+    color: #DDDDDD;
+    font-size: 2vw;
 }
 
 .upper_bar{
@@ -26,6 +28,7 @@ body {
   }
   .mdl-grid.center-items {
     justify-content: center;
+    font-size: calc(12px + 1vw);
   }
 
 #logo{
@@ -49,6 +52,8 @@ body {
     margin-top: 50px;
     margin-left: auto;
     margin-right: auto;
+    min-height: 50px;
+    margin-bottom: 50px;
 }
 #game_button{
     width: 50%;
