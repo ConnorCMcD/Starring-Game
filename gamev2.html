@@ -24,16 +24,16 @@
     <section class="main">
         <div id="container">
             <div class="score-bar">
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" id="team-1-score">
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored score-button" id="team-1-score">
                         Team 1<br/>0
                 </button>
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" id="team-2-score">
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored score-button" id="team-2-score">
                         Button
                 </button>
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" id="team-3-score">
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored score-button" id="team-3-score">
                         Button
                 </button>
-                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored" id="team-4-score">
+                <button class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--colored score-button" id="team-4-score">
                         Button
                 </button>
             </div>
@@ -48,26 +48,19 @@
                 </button>
             </div>
 
-            <div class="movie-panel">
-                <div class="casting-panel">
-                    <div class="cast-list" id="cast-list-1">
-                        <div class='actor'>test</div><div class='actor'>test</div><div class='actor'>test</div>
+            <div class="center-panel" id="center-panel">
+                <div class="movie-panel" id="movie-panel">
+                    <div class="casting-panel">
+                        <div class="cast-list" id="cast-list-1"></div>
+                        <div class="cast-list" id="cast-list-2"></div>
                     </div>
-                    <div class="cast-list" id="cast-list-2">
-                        <div class='actor'>test</div><div class='actor'>test</div><div class='actor'>test</div>
+
+                    <div class="roulette-panel">
+                        <div class="slider movie-roulette" id="movie-roulette"></div>
                     </div>
                 </div>
 
-                <div class="roulette-panel">
-                    <div class="slider movie-roulette" id="movie-roulette">
-                        <div><h3>1</h3></div>
-                        <div><h3>2</h3></div>
-                        <div><h3>3</h3></div>
-                        <div><h3>4</h3></div>
-                        <div><h3>5</h3></div>
-                        <div><h3>6</h3></div>
-                    </div>
-                </div>
+                <div class="leaderboard" id="leaderboard"></div>
             </div>
 
             <div class="button-panel">

@@ -4,6 +4,8 @@ window.onload = function(){
     const revealButton = document.getElementById('reveal-cast');
     const guessButton = document.getElementById('guess-movie');
     const movieRoulette = document.getElementById('movie-roulette');
+    const moviePanel = document.getElementById('movie-panel');
+    const leaderboard = document.getElementById('leaderboard');
 
     const castLists = [];
     castLists.push(document.getElementById("cast-list-1"));
@@ -93,7 +95,7 @@ window.onload = function(){
             nextQuestion();
         }
         if(teamScores[team] >= goal){
-            alert(teamNames[team] + " has won!");
+            showWinner();
         }
     }
 
@@ -117,7 +119,7 @@ window.onload = function(){
     function nextQuestion(){
         //console.log(questions.movies[1]);
         if(questionHistory.length >= questions.movies.length){
-            console.log("All numbers rolled");
+            showWinner();
             return;
         }
         var n = Math.floor(Math.random() * questions.movies.length);
@@ -174,6 +176,36 @@ window.onload = function(){
         }else{
             guessButton.style.background = '#AA0000';
             guessButton.innerHTML = "Wrong";
+        }
+    }
+
+    function showWinner(){
+        moviePanel.style.display = "none";
+        revealActor.disabled = true;
+        nextButton.disabled = true;
+        guessButton.disabled = true;
+        undoButton.disabled = true;
+
+        var places=[1,1,1,1];
+        for(i=0;i<numPlayers;i++){
+            for(j=i+1;j<numPlayers;j++){
+                if(teamScores[i]<teamScores[j]){
+                    places[i]++;
+                }
+                else if(teamScores[i]>teamScores[j]){
+                    places[j]++;
+                }
+            }
+            scoreElements[i].disabled = true;
+        }
+        leaderboard.style.display = "flex";
+        leaderboard.innerHTML = "<div class='rank'>Scoreboard:</div>";
+        for(i=1; i<=4; i++){
+            for(j=0; j<numPlayers; j++){
+                if(places[j]==i){
+                    leaderboard.innerHTML += "<div class='rank'>"+places[j]+" - "+teamNames[j]+": "+teamScores[j]+"</div>";
+                }
+            }
         }
     }
 

@@ -39,6 +39,7 @@ body {
     text-align: center;
     height: 100%;
     width: 25%;
+    max-width: 25vw;
     background-color: #e9e9e9;
     font-size: 2vw;
     line-height: 100%;
@@ -49,6 +50,7 @@ body {
     text-align: center;
     height: 100%;
     width: 25%;
+    max-width: 25vw;
     background-color: #e9e9e9;
     font-size: 2vw;
     line-height: 100%;
@@ -59,6 +61,7 @@ body {
     text-align: center;
     height: 100%;
     width: 25%;
+    max-width: 25vw;
     background-color: #e9e9e9;
     font-size: 2vw;
     line-height: 100%;
@@ -69,6 +72,7 @@ body {
     text-align: center;
     height: 100%;
     width: 25%;
+    max-width: 25vw;
     background-color: #e9e9e9;
     font-size: 2vw;
     line-height: 100%;
@@ -85,6 +89,9 @@ body {
     justify-content: space-around;
     flex-direction:column;
 }
+.score-button.mdl-button {
+    text-transform: none;
+ }
 #reveal-cast{
     vertical-align: middle;
     display: table-cell;
@@ -129,7 +136,7 @@ body {
     font-size: 3vw;
     line-height: 100%;
 }
-.movie-panel {
+.center-panel {
     width: 50vw;
     height: 75vh;
     background-color: #222222;
@@ -137,6 +144,28 @@ body {
     display: -webkit-flex;
     display: flex;
     flex-direction: column;
+}
+.movie-panel{
+    width: 100%;
+    height: 100%;
+}
+.leaderboard{
+    width: 100%;
+    height: 100%;
+    display: none;
+    float: left;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.rank{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    color:#FFD700;
+    font-size: 3vw;
 }
 .casting-panel{
     width: 100%;
