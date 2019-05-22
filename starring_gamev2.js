@@ -184,6 +184,7 @@ window.onload = function(){
         centerPadding: '60px',
         slidesToShow: 3,
         variableWidth: true,
+        swipeToSlide: true,
         responsive: [
           {
             breakpoint: 768,
