@@ -1,0 +1,60 @@
+html { 
+    height:100%;
+}
+body { 
+    height:100%;
+    display: flex;
+    flex-flow: column;
+    background-color: #222222;
+    color: #DDDDDD
+}
+
+.upper_bar{
+    width:100%;
+    height: 10vh;
+    background-color: #DDDDDD;
+}
+.heading{
+    text-align: center;
+}
+.mdl-cell {
+    box-sizing: border-box;
+    background-color: #BDBDBD;
+    padding-left: 8px;
+    padding-top: 4px;
+    color: white;
+  }
+  .mdl-grid.center-items {
+    justify-content: center;
+  }
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 100%;
+    max-height: 50vh;
+}
+#small_logo{
+    display: block;
+    max-width: 50%;
+    max-height: 100%;
+}
+#start_button{
+    width: 100%;
+    flex-grow : 1;
+}
+#setup_button{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+#game_button{
+    width: 50%;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 50px;
+    margin-bottom: 50px;
+}

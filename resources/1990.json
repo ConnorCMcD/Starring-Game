@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "Home Alone",
+       "actors":["Macaulay Culkin", "Joe Pesci", "Daniel Stern", "John Heard", "Roberts Blossom", "Catherine O'Hara", "Angela Goethals", "Devin Ratray", "Gerry Bamman", "Hillary Wolf"]
+   },
+   {
+        "title": "Ghost",
+       "actors":["Patrick Swayze", "Demi Moore", "Tony Goldwyn", "Stanley Lawrence", "Christopher J. Keene", "Susan Breslau", "Martina Deignan", "Rick Kleber", "Macka Foley", "Rick Aviles"]
+   },
+   {
+        "title": "Dances with Wolves",
+       "actors":["Kevin Costner", "Mary McDonnell", "Graham Greene", "Rodney A. Grant", "Floyd 'Red Crow' Westerman", "Tantoo Cardinal", "Robert Pastorelli", "Charles Rocket", "Maury Chaykin", "Jimmy Herman"]
+   },
+   {
+        "title": "Pretty Woman",
+       "actors":["Richard Gere", "Julia Roberts", "Ralph Bellamy", "Jason Alexander", "Laura San Giacomo", "Alex Hyde-White", "Amy Yasbeck", "Elinor Donahue", "Hector Elizondo", "Judith Baldwin"]
+   },
+   {
+        "title": "Teenage Mutant Ninja Turtles",
+       "actors":["Judith Hoag", "Elias Koteas", "Josh Pais", "David Forman", "Brian Tochi", "Leif Tilden", "Corey Feldman", "Michelan Sisti", "Robbie Rist", "Kevin Clash"]
+   },
+   {
+        "title": "The Hunt for Red October",
+       "actors":["Sean Connery", "Alec Baldwin", "Scott Glenn", "Sam Neill", "James Earl Jones", "Joss Ackland", "Richard Jordan", "Peter Firth", "Tim Curry", "Courtney B. Vance"]
+   },
+   {
+        "title": "Total Recall",
+       "actors":["Arnold Schwarzenegger", "Rachel Ticotin", "Sharon Stone", "Ronny Cox", "Michael Ironside", "Marshall Bell", "Mel Johnson Jr.", "Michael Champion", "Roy Brocksmith", "Ray Baker"]
+   },
+   {
+        "title": "Die Hard 2",
+       "actors":["Bruce Willis", "Bonnie Bedelia", "William Atherton", "Reginald VelJohnson", "Franco Nero", "William Sadler", "John Amos", "Dennis Franz", "Art Evans", "Fred Dalton Thompson"]
+   },
+   {
+        "title": "Dick Tracy",
+       "actors":["Warren Beatty", "Charlie Korsmo", "Michael Donovan O'Donnell", "Jim Wilkey", "Stig Eldred", "Neil Summers", "Chuck Hicks", "Lawrence Steven Meyers", "William Forsythe", "Ed O'Ross"]
+   },
+   {
+        "title": "Kindergarten Cop",
+       "actors":["Arnold Schwarzenegger", "Penelope Ann Miller", "Pamela Reed", "Linda Hunt", "Richard Tyson", "Carroll Baker", "Joseph Cousins", "Christian Cousins", "Cathy Moriarty", "Park Overall"]
+   },
+   {
+        "title": "Back to the Future Part III",
+       "actors":["Michael J. Fox", "Christopher Lloyd", "Mary Steenburgen", "Thomas F. Wilson", "Lea Thompson", "Elisabeth Shue", "Matt Clark", "Richard Dysart", "Pat Buttram", "Harry Carey Jr."]
+   },
+   {
+        "title": "Presumed Innocent",
+       "actors":["Harrison Ford", "Brian Dennehy", "Raul Julia", "Bonnie Bedelia", "Paul Winfield", "Greta Scacchi", "John Spencer", "Joe Grifasi", "Tom Mardirosian", "Anna Maria Horsford"]
+   },
+   {
+        "title": "Days of Thunder",
+       "actors":["Tom Cruise", "Nicole Kidman", "Robert Duvall", "Randy Quaid", "Cary Elwes", "Michael Rooker", "Fred Dalton Thompson", "John C. Reilly", "J.C. Quinn", "Don Simpson"]
+   },
+   {
+        "title": "Another 48 Hrs.",
+       "actors":["Eddie Murphy", "Nick Nolte", "Brion James", "Kevin Tighe", "Ed O'Ross", "David Anthony Marshall", "Andrew Divoff", "Bernie Casey", "Brent Jennings", "Ted Markland"]
+   },
+   {
+        "title": "3 Men and a Little Lady",
+       "actors":["Tom Selleck", "Steve Guttenberg", "Ted Danson", "Nancy Travis", "Robin Weisman", "Christopher Cazenove", "Sheila Hancock", "Fiona Shaw", "John Boswall", "Jonathan Lynn"]
+   },
+   {
+        "title": "Bird on a Wire",
+       "actors":["Mel Gibson", "Goldie Hawn", "David Carradine", "Bill Duke", "Stephen Tobolowsky", "Joan Severance", "Harry Caesar", "Jeff Corey", "Alex Bruhanski", "John Pyper-Ferguson"]
+   },
+   {
+        "title": "The Godfather Part III",
+       "actors":["Al Pacino", "Diane Keaton", "Talia Shire", "Andy Garcia", "Eli Wallach", "Joe Mantegna", "George Hamilton", "Bridget Fonda", "Sofia Coppola", "Raf Vallone"]
+   },
+   {
+        "title": "Flatliners",
+       "actors":["Kiefer Sutherland", "Julia Roberts", "Kevin Bacon", "William Baldwin", "Oliver Platt", "Kimberly Scott", "Joshua Rudoy", "Benjamin Mouton", "Aeryk Egan", "Kesha Reed"]
+   },
+   {
+        "title": "Misery",
+       "actors":["James Caan", "Kathy Bates", "Richard Farnsworth", "Frances Sternhagen", "Lauren Bacall", "Graham Jarvis", "Jerry Potter", "Thomas Brunelle", "June Christopher", "Julie Payne"]
+   },
+   {
+        "title": "Edward Scissorhands",
+       "actors":["Johnny Depp", "Winona Ryder", "Dianne Wiest", "Anthony Michael Hall", "Kathy Baker", "Robert Oliveri", "Conchata Ferrell", "Caroline Aaron", "Dick Anthony Williams", "O-Lan Jones"]
+   },
+   {
+        "title": "Problem Child",
+       "actors":["John Ritter", "Jack Warden", "Michael Oliver", "Gilbert Gottfried", "Amy Yasbeck", "Michael Richards", "Peter Jurasik", "Charlotte Akin", "Anna Marie Allred", "Adam Anderly"]
+   },
+   {
+        "title": "Arachnophobia",
+       "actors":["Jeff Daniels", "Harley Jane Kozak", "John Goodman", "Julian Sands", "Stuart Pankin", "Brian McNamara", "Mark L. Taylor", "Henry Jones", "Peter Jason", "James Handy"]
+   },
+   {
+        "title": "Awakenings",
+       "actors":["Robert De Niro", "Robin Williams", "Julie Kavner", "Ruth Nelson", "John Heard", "Penelope Ann Miller", "Alice Drummond", "Judith Malina", "Barton Heyman", "George Martin"]
+   },
+   {
+        "title": "Look Who\u0027s Talking Too",
+       "actors":["John Travolta", "Kirstie Alley", "Olympia Dukakis", "Elias Koteas", "Twink Caplan", "Bruce Willis", "Roseanne Barr", "Damon Wayans", "Gilbert Gottfried", "Mel Brooks"]
+   },
+   {
+        "title": "Hard to Kill",
+       "actors":["Steven Seagal", "Kelly LeBrock", "William Sadler", "Frederick Coffin", "Bonnie Burroughs", "Andrew Bloch", "Branscombe Richmond", "Charles Boswell", "Zachary Rosencrantz", "Lou Beatty Jr."]
+   },
+   {
+        "title": "Goodfellas",
+       "actors":["Robert De Niro", "Ray Liotta", "Joe Pesci", "Lorraine Bracco", "Paul Sorvino", "Frank Sivero", "Tony Darrow", "Mike Starr", "Frank Vincent", "Chuck Low"]
+   },
+   {
+        "title": "Marked for Death",
+       "actors":["Steven Seagal", "Basil Wallace", "Keith David", "Tom Wright", "Joanna Pacula", "Elizabeth Gracen", "Bette Ford", "Danielle Harris", "Al Israel", "Arlen Dean Snyder"]
+   },
+   {
+        "title": "RoboCop 2",
+       "actors":["John Glover", "Mario Machado", "Leeza Gibbons", "John Ingle", "Tom Noonan", "Roger Aaron Brown", "Mark Rolston", "Lila Finn", "John Hateley", "Gage Tarrant"]
+   },
+   {
+        "title": "Young Guns II",
+       "actors":["Emilio Estevez", "Kiefer Sutherland", "Lou Diamond Phillips", "Christian Slater", "William Petersen", "Alan Ruck", "R.D. Call", "James Coburn", "Balthazar Getty", "Jack Kehoe"]
+   },
+   {
+        "title": "Gremlins 2: The New Batch",
+       "actors":["Zach Galligan", "Phoebe Cates", "John Glover", "Robert Prosky", "Robert Picardo", "Christopher Lee", "Haviland Morris", "Dick Miller", "Jackie Joseph", "Gedde Watanabe"]
+   },
+   {
+        "title": "Rocky V",
+       "actors":["Sylvester Stallone", "Talia Shire", "Burt Young", "Sage Stallone", "Burgess Meredith", "Tommy Morrison", "Richard Gant", "Tony Burton", "Jimmy Gambina", "Delia Sheppard"]
+   },
+   {
+        "title": "Joe Versus the Volcano",
+       "actors":["Tom Hanks", "Meg Ryan", "Lloyd Bridges", "Robert Stack", "Abe Vigoda", "Dan Hedaya", "Barry McGovern", "Amanda Plummer", "Ossie Davis", "Jayne Haynes"]
+   },
+   {
+        "title": "Postcards from the Edge",
+       "actors":["Meryl Streep", "Shirley MacLaine", "Dennis Quaid", "Gene Hackman", "Richard Dreyfuss", "Rob Reiner", "Mary Wickes", "Conrad Bain", "Annette Bening", "Simon Callow"]
+   },
+   {
+        "title": "Mermaids",
+       "actors":["Cher", "Bob Hoskins", "Winona Ryder", "Michael Schoeffling", "Christina Ricci", "Caroline McWilliams", "Jan Miner", "Betsy Townsend", "Richard McElvain", "Paula Plum"]
+   },
+   {
+        "title": "Darkman",
+       "actors":["Liam Neeson", "Frances McDormand", "Colin Friels", "Larry Drake", "Nelson Mashita", "Jessie Lawrence Ferguson", "Rafael H. Robledo", "Dan Hicks", "Ted Raimi", "Dan Bell"]
+   },
+   {
+        "title": "Air America",
+       "actors":["Mel Gibson", "Robert Downey Jr.", "Nancy Travis", "Ken Jenkins", "David Marshall Grant", "Lane Smith", "Art LaFleur", "Ned Eisenberg", "Marshall Bell", "David Bowe"]
+   },
+   {
+        "title": "Predator 2",
+       "actors":["Kevin Peter Hall", "Danny Glover", "Gary Busey", "Rubén Blades", "Maria Conchita Alonso", "Bill Paxton", "Robert Davi", "Adam Baldwin", "Kent McCord", "Morton Downey Jr."]
+   },
+   {
+        "title": "Green Card",
+       "actors":["Gérard Depardieu", "Andie MacDowell", "Bebe Neuwirth", "Gregg Edelman", "Robert Prosky", "Jessie Keosian", "Ethan Phillips", "Mary Louise Wilson", "Lois Smith", "Conrad McLaren"]
+   },
+   {
+        "title": "Pacific Heights",
+       "actors":["Melanie Griffith", "Matthew Modine", "Michael Keaton", "Mako", "Nobu McCarthy", "Laurie Metcalf", "Carl Lumbly", "Dorian Harewood", "Luca Bercovici", "Tippi Hedren"]
+   },
+   {
+        "title": "Child\u0027s Play 2",
+       "actors":["Alex Vincent", "Jenny Agutter", "Gerrit Graham", "Christine Elise", "Brad Dourif", "Grace Zabriskie", "Peter Haskell", "Beth Grant", "Greg Germann", "Raymond Singer"]
+   },
+   {
+        "title": "The Rescuers Down Under",
+       "actors":["Bob Newhart", "Eva Gabor", "John Candy", "Tristan Rogers", "Adam Ryen", "George C. Scott", "Wayne Robson", "Douglas Seale", "Frank Welker", "Bernard Fox"]
+   },
+   {
+        "title": "Internal Affairs",
+       "actors":["Richard Gere", "Andy Garcia", "Nancy Travis", "Laurie Metcalf", "Richard Bradford", "William Baldwin", "Michael Beach", "Katherine Borowitz", "Faye Grant", "John Kapelos"]
+   },
+   {
+        "title": "Cadillac Man",
+       "actors":["Robin Williams", "Tim Robbins", "Pamela Reed", "Fran Drescher", "Zack Norman", "Lori Petty", "Annabella Sciorra", "Paul Guilfoyle", "Bill Nelson", "Eddie Jones"]
+   },
+   {
+        "title": "Memphis Belle",
+       "actors":["Matthew Modine", "Eric Stoltz", "Tate Donovan", "D.B. Sweeney", "Billy Zane", "Sean Astin", "Harry Connick Jr.", "Reed Diamond", "Courtney Gains", "Neil Giuntoli"]
+   },
+   {
+        "title": "House Party",
+       "actors":["Christopher Reid", "Robin Harris", "Christopher Martin", "Martin Lawrence", "Tisha Campbell-Martin", "A.J. Johnson", "Paul Anthony", "Bowlegged Lou", "B-Fine", "Edith Fields"]
+   },
+   {
+        "title": "Jacob\u0027s Ladder",
+       "actors":["Tim Robbins", "Elizabeth Peña", "Danny Aiello", "Matt Craven", "Pruitt Taylor Vince", "Jason Alexander", "Patricia Kalember", "Eriq La Salle", "Ving Rhames", "Brian Tarantina"]
+   },
+   {
+        "title": "The Exorcist III",
+       "actors":["George C. Scott", "Ed Flanders", "Brad Dourif", "Jason Miller", "Nicol Williamson", "Scott Wilson", "Nancy Fish", "George DiCenzo", "Don Gordon", "Lee Richardson"]
+   },
+   {
+        "title": "Navy Seals",
+       "actors":["Charlie Sheen", "Michael Biehn", "Joanne Whalley", "Rick Rossovich", "Cyril O'Reilly", "Bill Paxton", "Dennis Haysbert", "Paul Sanchez", "Nicholas Kadi", "Ronald G. Joseph"]
+   },
+   {
+        "title": "Ernest Goes to Jail",
+       "actors":["Jim Varney", "Gailard Sartain", "Bill Byrge", "Barbara Tyson", "Barry Scott", "Randall 'Tex' Cobb", "Dan Leegant", "Charles Napier", "Jim Conrad", "Jackie Welch"]
+   },
+   {
+        "title": "Ghost Dad",
+       "actors":["Bill Cosby", "Kimberly Russell", "Denise Nicholas", "Ian Bannen", "Christine Ebersole", "Barry Corbin", "Salim Grant", "Brooke Fontaine", "Dakin Matthews", "Dana Ashbrook"]
+   },
+   {
+        "title": "Lionheart",
+       "actors":["Jean-Claude Van Damme", "Harrison Page", "Deborah Rennard", "Lisa Pelikan", "Ashley Johnson", "Brian Thompson", "Voyo Goric", "Michel Qissi", "George McDaniel", "Eric Karson"]
+   },
+   {
+        "title": "My Blue Heaven",
+       "actors":["Steve Martin", "Rick Moranis", "Joan Cusack", "Melanie Mayron", "Bill Irwin", "Carol Kane", "William Hickey", "Deborah Rush", "Daniel Stern", "Jesse Bradford"]
+   },
+   {
+        "title": "The Russia House",
+       "actors":["Sean Connery", "Michelle Pfeiffer", "Roy Scheider", "James Fox", "John Mahoney", "Michael Kitchen", "J.T. Walsh", "Ken Russell", "David Threlfall", "Klaus Maria Brandauer"]
+   },
+   {
+        "title": "The First Power",
+       "actors":["Lou Diamond Phillips", "Tracy Griffith", "Jeff Kober", "Mykelti Williamson", "Elizabeth Arlen", "Dennis Lipscomb", "Carmen Argenziano", "Julianna McCarthy", "Nada Despotovich", "Sue Giosa"]
+   },
+   {
+        "title": "The Rookie",
+       "actors":["Clint Eastwood", "Charlie Sheen", "Raul Julia", "Sônia Braga", "Tom Skerritt", "Lara Flynn Boyle", "Pepe Serna", "Marco Rodríguez", "Pete Randall", "Donna Mitchell"]
+   },
+   {
+        "title": "The Freshman",
+       "actors":["Marlon Brando", "Matthew Broderick", "Bruno Kirby", "Penelope Ann Miller", "Frank Whaley", "Jon Polito", "Paul Benedict", "Richard Gant", "Kenneth Welsh", "Pamela Payton-Wright"]
+   },
+   {
+        "title": "The Adventures of Ford Fairlane",
+       "actors":["Andrew Dice Clay", "Wayne Newton", "Priscilla Presley", "Morris Day", "Lauren Holly", "Maddie Corman", "Gilbert Gottfried", "David Patrick Kelly", "Brandon Call", "Robert Englund"]
+   },
+   {
+        "title": "Quigley Down Under",
+       "actors":["Tom Selleck", "Laura San Giacomo", "Alan Rickman", "Chris Haywood", "Ron Haddrick", "Tony Bonner", "Jerome Ehlers", "Conor McDermottroe", "Roger Ward", "Ben Mendelsohn"]
+   },
+   {
+        "title": "Madhouse",
+       "actors":["John Larroquette", "Kirstie Alley", "Alison La Placa", "John Diehl", "Jessica Lundy", "Bradley Gregg", "Dennis Miller", "Robert Ginty", "Wayne Tippit", "Paul Eiding"]
+   },
+   {
+        "title": "Hamlet",
+       "actors":["Mel Gibson", "Glenn Close", "Alan Bates", "Paul Scofield", "Ian Holm", "Helena Bonham Carter", "Stephen Dillane", "Nathaniel Parker", "Sean Murray", "Michael Maloney"]
+   },
+   {
+        "title": "Stella",
+       "actors":["Bette Midler", "John Goodman", "Trini Alvarado", "Stephen Collins", "Marsha Mason", "Eileen Brennan", "Linda Hart", "Ben Stiller", "William McNamara", "John Bell"]
+   },
+   {
+        "title": "Taking Care of Business",
+       "actors":["Jim Belushi", "Charles Grodin", "Anne De Salvo", "Loryn Locklin", "Stephen Elliott", "Hector Elizondo", "Veronica Hamel", "Mako", "Gates McFadden", "John de Lancie"]
+   },
+   {
+        "title": "Betsy\u0027s Wedding",
+       "actors":["Alan Alda", "Joey Bishop", "Madeline Kahn", "Anthony LaPaglia", "Catherine O'Hara", "Joe Pesci", "Molly Ringwald", "Ally Sheedy", "Burt Young", "Julie Bovasso"]
+   },
+   {
+        "title": "DuckTales the Movie: Treasure of the Lost Lamp",
+       "actors":["Alan Young", "Terence McGovern", "Russi Taylor", "Richard Libertini", "Christopher Lloyd", "June Foray", "Chuck McCann", "Joan Gerber", "Rip Taylor", "Charlie Adler"]
+   },
+   {
+        "title": "Sibling Rivalry",
+       "actors":["Kirstie Alley", "Bill Pullman", "Carrie Fisher", "Jami Gertz", "Scott Bakula", "Frances Sternhagen", "John Randolph", "Sam Elliott", "Ed O'Neill", "Bill Macy"]
+   },
+   {
+        "title": "White Palace",
+       "actors":["Susan Sarandon", "James Spader", "Jason Alexander", "Kathy Bates", "Eileen Brennan", "Steven Hill", "Rachel Chagall", "Corey Parker", "Renée Taylor", "Jonathan Penner"]
+   },
+   {
+        "title": "The NeverEnding Story II: The Next Chapter",
+       "actors":["Jonathan Brandis", "Kenny Morrison", "Clarissa Burt", "John Wesley Shipp", "Martin Umbach", "Alexandra Johnes", "Thomas Hill", "Helena Michell", "Christopher Burton", "Patricia Fugger"]
+   },
+   {
+        "title": "The Guardian",
+       "actors":["Jenny Seagrove", "Dwier Brown", "Carey Lowell", "Brad Hall", "Miguel Ferrer", "Natalija Nogulich", "Pamela Brull", "Gary Swanson", "Jack David Walker", "Willy Parsons"]
+   },
+   {
+        "title": "Death Warrant",
+       "actors":["Jean-Claude Van Damme", "Robert Guillaume", "Cynthia Gibb", "George Dickerson", "Art LaFleur", "Patrick Kilpatrick", "Joshua John Miller", "Hank Stone", "Conrad Dunn", "Jack Bannon"]
+   },
+   {
+        "title": "Tremors",
+       "actors":["Kevin Bacon", "Fred Ward", "Finn Carter", "Michael Gross", "Reba McEntire", "Robert Jayne", "Charlotte Stewart", "Tony Genaro", "Ariana Richards", "Richard Marcus"]
+   },
+   {
+        "title": "Tales from the Darkside: The Movie",
+       "actors":["Debbie Harry", "David Forrester", "Matthew Lawrence", "Christian Slater", "Robert Sedgwick", "Steve Buscemi", "Donald Van Horn", "Michael Deak", "Julianne Moore", "George Guidall"]
+   },
+   {
+        "title": "Men at Work",
+       "actors":["Charlie Sheen", "Emilio Estevez", "Leslie Hope", "Keith David", "Dean Cameron", "John Getz", "Hawk Wolinski", "John Lavachielli", "Geoffrey Blake", "Cameron Dye"]
+   },
+   {
+        "title": "I Love You to Death",
+       "actors":["Kevin Kline", "Tracey Ullman", "Joan Plowright", "River Phoenix", "William Hurt", "Keanu Reeves", "James Gammon", "Jack Kehler", "Victoria Jackson", "Miriam Margolyes"]
+   },
+   {
+        "title": "Mo\u0027 Better Blues",
+       "actors":["Denzel Washington", "Spike Lee", "Wesley Snipes", "Giancarlo Esposito", "Robin Harris", "Joie Lee", "Bill Nunn", "John Turturro", "Dick Anthony Williams", "Cynda Williams"]
+   },
+   {
+        "title": "Avalon",
+       "actors":["Leo Fuchs", "Eve Gordon", "Lou Jacobi", "Armin Mueller-Stahl", "Elizabeth Perkins", "Joan Plowright", "Kevin Pollak", "Aidan Quinn", "Israel Rubinek", "Elijah Wood"]
+   },
+   {
+        "title": "The Bonfire of the Vanities",
+       "actors":["Tom Hanks", "Bruce Willis", "Melanie Griffith", "Kim Cattrall", "Saul Rubinek", "Morgan Freeman", "John Hancock", "Kevin Dunn", "Clifton James", "Louis Giambalvo"]
+   },
+   {
+        "title": "Revenge",
+       "actors":["Kevin Costner", "Anthony Quinn", "Madeleine Stowe", "Tomas Milian", "Joaquín Martínez", "James Gammon", "Jesse Corti", "Sally Kirkland", "Luis de Icaza", "Gerardo Zepeda"]
+   },
+   {
+        "title": "Reversal of Fortune",
+       "actors":["Glenn Close", "Jeremy Irons", "Ron Silver", "Annabella Sciorra", "Uta Hagen", "Fisher Stevens", "Jack Gilpin", "Christine Baranski", "Stephen Mailer", "Christine Dunford"]
+   },
+   {
+        "title": "Mr. Destiny",
+       "actors":["Jim Belushi", "Linda Hamilton", "Michael Caine", "Jon Lovitz", "Hart Bochner", "Bill McCutcheon", "Rene Russo", "Jay O. Sanders", "Maury Chaykin", "Pat Corley"]
+   },
+   {
+        "title": "Spaced Invaders",
+       "actors":["Douglas Barr", "Royal Dano", "Ariana Richards", "J.J. Anderson", "Gregg Berger", "Wayne Alexander", "Fred Applegate", "Patrika Darbo", "Tonya Williams", "Ryan Todd"]
+   },
+   {
+        "title": "Quick Change",
+       "actors":["Bill Murray", "Dale Grand", "Bob Elliott", "Geena Davis", "Randy Quaid", "Kimberleigh Aarn", "Ron Ryan", "Brian McConnachie", "Jack Gilpin", "Jordan Cael"]
+   },
+   {
+        "title": "Cyrano de Bergerac",
+       "actors":["Gérard Depardieu", "Anne Brochet", "Vincent Perez", "Jacques Weber", "Roland Bertin", "Philippe Morier-Genoud", "Pierre Maguelon", "Josiane Stoléru", "Anatole Delalande", "Alain Rimoux"]
+   },
+   {
+        "title": "Fire Birds",
+       "actors":["Nicolas Cage", "Tommy Lee Jones", "Sean Young", "Bryan Kestner", "Illana Diamant", "Dale Dye", "Mary Ellen Trainor", "J.A. Preston", "Peter Onorati", "Charles Lanyer"]
+   },
+   {
+        "title": "Wild at Heart",
+       "actors":["Nicolas Cage", "Laura Dern", "Willem Dafoe", "J.E. Freeman", "Crispin Glover", "Diane Ladd", "Calvin Lockhart", "Isabella Rossellini", "Harry Dean Stanton", "Grace Zabriskie"]
+   },
+   {
+        "title": "Lord of the Flies",
+       "actors":["Balthazar Getty", "Chris Furrh", "Danuel Pipoly", "James Badge Dale", "Andrew Taft", "Edward Taft", "Gary Rule", "Terry Wells", "Braden MacDonald", "Angus Burgin"]
+   },
+   {
+        "title": "The Grifters",
+       "actors":["Anjelica Huston", "John Cusack", "Annette Bening", "Jan Munroe", "Robert Weems", "Stephen Tobolowsky", "Jimmy Noonan", "Richard Holden", "Henry Jones", "Michael Laskin"]
+   },
+   {
+        "title": "Crazy People",
+       "actors":["Dudley Moore", "Daryl Hannah", "Paul Reiser", "J.T. Walsh", "Bill Smitrovich", "Alan North", "David Paymer", "Danton Stone", "Paul Bates", "Dick Cusack"]
+   },
+   {
+        "title": "Bad Influence",
+       "actors":["Rob Lowe", "James Spader", "Lisa Zane", "Marcia Cross", "Rosalyn Landor", "Tony Maggio", "Palmer Lee Todd", "Kathleen Wilhoite", "Sunny Smith", "Susan Lee Hoffman"]
+   },
+   {
+        "title": "Graveyard Shift",
+       "actors":["David Andrews", "Kelly Wolf", "Stephen Macht", "Andrew Divoff", "Vic Polizos", "Brad Dourif", "Robert Alan Beuth", "Ilona Margolis", "Jimmy Woodard", "Jonathan Emerson"]
+   },
+   {
+        "title": "Henry \u0026 June",
+       "actors":["Fred Ward", "Uma Thurman", "Maria de Medeiros", "Richard E. Grant", "Kevin Spacey", "Jean-Philippe Écoffey", "Bruce Myers", "Juan Luis Buñuel", "Féodor Atkine", "Sylvie Huguel"]
+   },
+   {
+        "title": "Pump Up the Volume",
+       "actors":["Anthony Lucero", "Andy Romano", "Keith Stuart Thayer", "Cheryl Pollak", "Jeff Chamberlain", "Billy Morrissette", "Samantha Mathis", "Lala Sloatman", "Holly Sampson", "Annie Ross"]
+   },
+   {
+        "title": "Opportunity Knocks",
+       "actors":["Dana Carvey", "Robert Loggia", "Todd Graff", "Julia Campbell", "Milo O'Shea", "James Tolkan", "Doris Belack", "Sally Gracie", "Mike Bacarella", "John M. Watson Sr."]
+   },
+   {
+        "title": "Q \u0026 A",
+       "actors":["Nick Nolte", "Timothy Hutton", "Armand Assante", "Patrick O'Neal", "Lee Richardson", "Luis Guzmán", "Charles S. Dutton", "Jenny Lumet", "Paul Calderon", "International Chrysis"]
+   },
+   {
+        "title": "Nuns on the Run",
+       "actors":["Eric Idle", "Robbie Coltrane", "Camille Coduri", "Janet Suzman", "Doris Hare", "Lila Kaye", "Robert Patterson", "Robert Morgan", "Winston Dennis", "Tom Hickey"]
+   },
+   {
+        "title": "Jetsons: The Movie",
+       "actors":["George O'Hanlon", "Mel Blanc", "Penny Singleton", "Tiffany", "Patric Zimmerman", "Don Messick", "Jean Vander Pyl", "Ronnie Schell", "Patti Deutsch", "Dana Hill"]
+   },
+   {
+        "title": "Narrow Margin",
+       "actors":["Gene Hackman", "Anne Archer", "James Sikking", "J.T. Walsh", "M. Emmet Walsh", "Susan Hogan", "Nigel Bennett", "J.A. Preston", "B.A. 'Smitty' Smith", "Codie Lucas Wilbee"]
+   },
+   {
+        "title": "The Witches",
+       "actors":["Anjelica Huston", "Mai Zetterling", "Jasen Fisher", "Rowan Atkinson", "Bill Paterson", "Brenda Blethyn", "Charlie Potter", "Anne Lambton", "Jane Horrocks", "Sukie Smith"]
+   },
+   {
+        "title": "The Two Jakes",
+       "actors":["Jack Nicholson", "Harvey Keitel", "Meg Tilly", "Madeleine Stowe", "Eli Wallach", "Rubén Blades", "Frederic Forrest", "David Keith", "Richard Farnsworth", "Tracey Walter"]
+   },
+   {
+        "title": "Miami Blues",
+       "actors":["Alec Baldwin", "Cecilia Pérez-Cervera", "Georgie Cranford", "Edward Saxon", "José Pérez", "Obba Babatundé", "Fred Ward", "Jennifer Jason Leigh", "Charles Napier", "Matt Ingersoll"]
+   },
+   {
+        "title": "Havana",
+       "actors":["Robert Redford", "Lena Olin", "Alan Arkin", "Tomas Milian", "Daniel Davis", "Tony Plana", "Betsy Brantley", "Lise Cutter", "Richard Farnsworth", "Mark Rydell"]
+   }
+   ]
+}

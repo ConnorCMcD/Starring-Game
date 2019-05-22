@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "Ghost Busters",
+       "actors":["Bill Murray", "Dan Aykroyd", "Sigourney Weaver", "Harold Ramis", "Rick Moranis", "Annie Potts", "William Atherton", "Ernie Hudson", "David Margulies", "Steven Tash"]
+   },
+   {
+        "title": "Beverly Hills Cop",
+       "actors":["Eddie Murphy", "Judge Reinhold", "John Ashton", "Lisa Eilbacher", "Ronny Cox", "Steven Berkoff", "James Russo", "Jonathan Banks", "Stephen Elliott", "Gilbert R. Hill"]
+   },
+   {
+        "title": "Indiana Jones and the Temple of Doom",
+       "actors":["Harrison Ford", "Kate Capshaw", "Jonathan Ke Quan", "Amrish Puri", "Roshan Seth", "Philip Stone", "Roy Chiao", "David Yip", "Ric Young", "Chua Kah Joo"]
+   },
+   {
+        "title": "Gremlins",
+       "actors":["Hoyt Axton", "John Louie", "Keye Luke", "Don Steele", "Susan Burgess", "Scott Brady", "Arnie Moore", "Corey Feldman", "Harry Carey Jr.", "Zach Galligan"]
+   },
+   {
+        "title": "The Karate Kid",
+       "actors":["Ralph Macchio", "Pat Morita", "Elisabeth Shue", "Martin Kove", "Randee Heller", "William Zabka", "Ron Thomas", "Rob Garrison", "Chad McQueen", "Tony O'Dell"]
+   },
+   {
+        "title": "Police Academy",
+       "actors":["Steve Guttenberg", "Kim Cattrall", "G.W. Bailey", "Bubba Smith", "Donovan Scott", "George Gaynes", "Andrew Rubin", "David Graf", "Leslie Easterbrook", "Michael Winslow"]
+   },
+   {
+        "title": "Footloose",
+       "actors":["Kevin Bacon", "Lori Singer", "John Lithgow", "Dianne Wiest", "Chris Penn", "Sarah Jessica Parker", "John Laughlin", "Elizabeth Gorcey", "Frances Lee McCain", "Jim Youngs"]
+   },
+   {
+        "title": "Romancing the Stone",
+       "actors":["Michael Douglas", "Kathleen Turner", "Danny DeVito", "Zack Norman", "Alfonso Arau", "Manuel Ojeda", "Holland Taylor", "Mary Ellen Trainor", "Eve Smith", "Joe Nesnow"]
+   },
+   {
+        "title": "Star Trek III: The Search for Spock",
+       "actors":["William Shatner", "Leonard Nimoy", "DeForest Kelley", "James Doohan", "Walter Koenig", "George Takei", "Nichelle Nichols", "Robin Curtis", "Merritt Butrick", "Phil Morris"]
+   },
+   {
+        "title": "Purple Rain",
+       "actors":["Prince", "Apollonia Kotero", "Morris Day", "Olga Karlatos", "Clarence Williams III", "Jerome Benton", "Billy Sparks", "Jill Jones", "Charles Huntsberry", "Dez Dickerson"]
+   },
+   {
+        "title": "Splash",
+       "actors":["Tom Hanks", "Daryl Hannah", "Eugene Levy", "John Candy", "Dody Goodman", "Shecky Greene", "Richard B. Shull", "Bobby Di Cicco", "Howard Morris", "Tony DiBenedetto"]
+   },
+   {
+        "title": "Amadeus",
+       "actors":["F. Murray Abraham", "Tom Hulce", "Elizabeth Berridge", "Roy Dotrice", "Simon Callow", "Christine Ebersole", "Jeffrey Jones", "Charles Kay", "Kenneth McMillan", "Kenny Baker"]
+   },
+   {
+        "title": "Tightrope",
+       "actors":["Clint Eastwood", "Geneviève Bujold", "Dan Hedaya", "Alison Eastwood", "Jenny Beck", "Marco St. John", "Rebecca Perle", "Regina Richardson", "Randi Brooks", "Jamie Rose"]
+   },
+   {
+        "title": "The Natural",
+       "actors":["Robert Redford", "Robert Duvall", "Glenn Close", "Kim Basinger", "Wilford Brimley", "Barbara Hershey", "Robert Prosky", "Richard Farnsworth", "Joe Don Baker", "John Finnegan"]
+   },
+   {
+        "title": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+       "actors":["Ralph Richardson", "Ian Holm", "James Fox", "Christopher Lambert", "Andie MacDowell", "Cheryl Campbell", "Ian Charleson", "Nigel Davenport", "Nicholas Farrell", "Paul Geoffrey"]
+   },
+   {
+        "title": "Revenge of the Nerds",
+       "actors":["Robert Carradine", "Anthony Edwards", "Timothy Busfield", "Andrew Cassese", "Curtis Armstrong", "Larry B. Scott", "Brian Tochi", "Julia Montgomery", "Michelle Meyrink", "Ted McGinley"]
+   },
+   {
+        "title": "2010: The Year We Make Contact",
+       "actors":["Roy Scheider", "John Lithgow", "Helen Mirren", "Bob Balaban", "Keir Dullea", "Douglas Rain", "Madolyn Smith Osborne", "Dana Elcar", "Taliesin Jaffe", "James McEachin"]
+   },
+   {
+        "title": "Breakin\u0027",
+       "actors":["Lucinda Dickey", "Adolfo Quinones", "Michael Chambers", "Ben Lokey", "Christopher McDonald", "Phineas Newborn III", "Bruno Falcon", "Timothy Solomon", "Ana Sánchez", "Ice-T"]
+   },
+   {
+        "title": "Bachelor Party",
+       "actors":["Tom Hanks", "Tawny Kitaen", "Adrian Zmed", "George Grizzard", "Barbara Stuart", "Robert Prescott", "William Tepper", "Wendie Jo Sperber", "Barry Diamond", "Gary Grossman"]
+   },
+   {
+        "title": "The Terminator",
+       "actors":["Arnold Schwarzenegger", "Michael Biehn", "Linda Hamilton", "Paul Winfield", "Lance Henriksen", "Rick Rossovich", "Bess Motta", "Earl Boen", "Dick Miller", "Shawn Schepps"]
+   },
+   {
+        "title": "Red Dawn",
+       "actors":["Patrick Swayze", "C. Thomas Howell", "Lea Thompson", "Charlie Sheen", "Darren Dalton", "Jennifer Grey", "Brad Savage", "Doug Toby", "Ben Johnson", "Harry Dean Stanton"]
+   },
+   {
+        "title": "City Heat",
+       "actors":["Clint Eastwood", "Burt Reynolds", "Jane Alexander", "Madeline Kahn", "Rip Torn", "Irene Cara", "Richard Roundtree", "Tony Lo Bianco", "William Sanderson", "Nicholas Worth"]
+   },
+   {
+        "title": "All of Me",
+       "actors":["Steve Martin", "Lily Tomlin", "Victoria Tennant", "Madolyn Smith Osborne", "Richard Libertini", "Dana Elcar", "Jason Bernard", "Selma Diamond", "Eric Christmas", "Gailard Sartain"]
+   },
+   {
+        "title": "Ghoulies",
+       "actors":["Peter Liapis", "Lisa Pelikan", "Michael Des Barres", "Jack Nance", "Peter Risch", "Tamara De Treaux", "Scott Thomson", "Ralph Seymour", "Mariska Hargitay", "Keith Joe Dick"]
+   },
+   {
+        "title": "Places in the Heart",
+       "actors":["Sally Field", "Lindsay Crouse", "Ed Harris", "Amy Madigan", "John Malkovich", "Danny Glover", "Yankton Hatten", "Gennie James", "Lane Smith", "Terry O'Quinn"]
+   },
+   {
+        "title": "The Killing Fields",
+       "actors":["Sam Waterston", "Haing S. Ngor", "John Malkovich", "Julian Sands", "Craig T. Nelson", "Spalding Gray", "Bill Paterson", "Athol Fugard", "Graham Kennedy", "Katherine Krapum Chey"]
+   },
+   {
+        "title": "Friday the 13th: The Final Chapter",
+       "actors":["Judie Aronson", "Peter Barton", "Erich Anderson", "Kimberly Beck", "Tom Everett", "Crispin Glover", "Corey Feldman", "Joan Freeman", "Lisa Freeman", "Thad Geer"]
+   },
+   {
+        "title": "Conan the Destroyer",
+       "actors":["Arnold Schwarzenegger", "Grace Jones", "Wilt Chamberlain", "Mako", "Tracey Walter", "Sarah Douglas", "Olivia d'Abo", "Pat Roach", "Jeff Corey", "Sven-Ole Thorsen"]
+   },
+   {
+        "title": "Dune",
+       "actors":["Francesca Annis", "Leonardo Cimino", "Brad Dourif", "José Ferrer", "Linda Hunt", "Freddie Jones", "Richard Jordan", "Kyle MacLachlan", "Virginia Madsen", "Silvana Mangano"]
+   },
+   {
+        "title": "The Last Starfighter",
+       "actors":["Kay E. Kuter", "Dan Mason", "Lance Guest", "Dan O'Herlihy", "Catherine Mary Stewart", "Barbara Bosson", "Norman Snow", "Robert Preston", "Chris Hebert", "John O'Leary"]
+   },
+   {
+        "title": "Starman",
+       "actors":["Jeff Bridges", "Karen Allen", "Charles Martin Smith", "Richard Jaeckel", "Robert Phalen", "Tony Edwards", "John Walter Davis", "Ted White", "Dirk Blocker", "M.C. Gainey"]
+   },
+   {
+        "title": "Cannonball Run II",
+       "actors":["Burt Reynolds", "Dom DeLuise", "Dean Martin", "Sammy Davis Jr.", "Jamie Farr", "Marilu Henner", "Telly Savalas", "Shirley MacLaine", "Susan Anton", "Catherine Bach"]
+   },
+   {
+        "title": "Teachers",
+       "actors":["Nick Nolte", "JoBeth Williams", "Judd Hirsch", "Ralph Macchio", "Allen Garfield", "Lee Grant", "Richard Mulligan", "Royal Dano", "William Schallert", "Art Metrano"]
+   },
+   {
+        "title": "A Passage to India",
+       "actors":["Judy Davis", "Victor Banerjee", "Peggy Ashcroft", "James Fox", "Alec Guinness", "Nigel Havers", "Richard Wilson", "Antonia Pemberton", "Michael Culver", "Art Malik"]
+   },
+   {
+        "title": "Protocol",
+       "actors":["Goldie Hawn", "Chris Sarandon", "Richard Romanus", "Andre Gregory", "Gail Strickland", "Cliff De Young", "Keith Szarabajka", "Ed Begley Jr.", "James Staley", "Kenneth Mars"]
+   },
+   {
+        "title": "Micki + Maude",
+       "actors":["Dudley Moore", "Amy Irving", "Ann Reinking", "Richard Mulligan", "George Gaynes", "Wallace Shawn", "John Pleshette", "H.B. Haggerty", "Lu Leonard", "Priscilla Pointer"]
+   },
+   {
+        "title": "The Cotton Club",
+       "actors":["Richard Gere", "Gregory Hines", "Diane Lane", "Lonette McKee", "Bob Hoskins", "James Remar", "Nicolas Cage", "Allen Garfield", "Fred Gwynne", "Gwen Verdon"]
+   },
+   {
+        "title": "The Muppets Take Manhattan",
+       "actors":["Jim Henson", "Frank Oz", "Dave Goelz", "Steve Whitmire", "Richard Hunt", "Jerry Nelson", "Juliana Donald", "Lonny Price", "Louis Zorich", "Art Carney"]
+   },
+   {
+        "title": "A Nightmare on Elm Street",
+       "actors":["John Saxon", "Ronee Blakley", "Heather Langenkamp", "Amanda Wyss", "Jsu Garcia", "Johnny Depp", "Charles Fleischer", "Joseph Whipp", "Robert Englund", "Lin Shaye"]
+   },
+   {
+        "title": "The Woman in Red",
+       "actors":["Gene Wilder", "Charles Grodin", "Joseph Bologna", "Judith Ivey", "Michael Huddleston", "Kelly LeBrock", "Gilda Radner", "Kyle T. Heffner", "Michael Zorek", "Billy Beck"]
+   },
+   {
+        "title": "Moscow on the Hudson",
+       "actors":["Robin Williams", "Maria Conchita Alonso", "Cleavant Derricks", "Alejandro Rey", "Saveliy Kramarov", "Elya Baskin", "Oleg Rudnik", "Aleksandr Benyaminov", "Lyudmila Kramarevskaya", "Ivo Vrzal-Wiegand"]
+   },
+   {
+        "title": "Against All Odds",
+       "actors":["Rachel Ward", "Jeff Bridges", "James Woods", "Alex Karras", "Jane Greer", "Richard Widmark", "Dorian Harewood", "Swoosie Kurtz", "Saul Rubinek", "Pat Corley"]
+   },
+   {
+        "title": "The Flamingo Kid",
+       "actors":["Matt Dillon", "Hector Elizondo", "Molly McCarthy", "Martha Gehman", "Richard Crenna", "Jessica Walter", "Carole Davis", "Janet Jones", "Brian McNamara", "Fisher Stevens"]
+   },
+   {
+        "title": "Sixteen Candles",
+       "actors":["Molly Ringwald", "Justin Henry", "Michael Schoeffling", "Haviland Morris", "Gedde Watanabe", "Anthony Michael Hall", "Paul Dooley", "Carlin Glynn", "Blanche Baker", "Edward Andrews"]
+   },
+   {
+        "title": "Missing in Action",
+       "actors":["Chuck Norris", "M. Emmet Walsh", "David Tress", "Lenore Kasdorf", "James Hong", "Ernie Ortega", "Pierrino Mascarino", "Erich Anderson", "Joseph Carberry", "Avi Kleinberger"]
+   },
+   {
+        "title": "A Soldier\u0027s Story",
+       "actors":["Howard E. Rollins Jr.", "Adolph Caesar", "Art Evans", "David Alan Grier", "David Harris", "Dennis Lipscomb", "Larry Riley", "Robert Townsend", "Denzel Washington", "William Allen Young"]
+   },
+   {
+        "title": "Oh, God! You Devil",
+       "actors":["George Burns", "Ted Wass", "Ron Silver", "Roxanne Hart", "Eugene Roche", "Janet Brandt", "Robert Desiderio", "John Doolittle", "Julie Lloyd", "Ian Michael Giatti"]
+   },
+   {
+        "title": "Rhinestone",
+       "actors":["Sylvester Stallone", "Dolly Parton", "Richard Farnsworth", "Ron Leibman", "Tim Thomerson", "Steve Peck", "Penny Santon", "Russell Buchanan", "Ritch Brinkley", "Jerry Potter"]
+   },
+   {
+        "title": "Weekend Pass",
+       "actors":["D.W. Brown", "Peter Ellenstein", "Patrick Houser", "Chip McAllister", "Pamela Kay Davis", "Hilary Shepard", "Graem McGavin", "Daureen Collodel", "Annette Sinclair", "Grand L. Bush"]
+   },
+   {
+        "title": "Top Secret!",
+       "actors":["Val Kilmer", "Lucy Gutteridge", "Peter Cushing", "Jeremy Kemp", "Christopher Villiers", "Warren Clarke", "Michael Gough", "Harry Ditson", "Jim Carter", "Eddie Tagoe"]
+   },
+   {
+        "title": "Hot Dog... The Movie",
+       "actors":["David Naughton", "Patrick Houser", "Tracy Smith", "John Patrick Reger", "Frank Koppala", "James Saito", "Shannon Tweed", "George Theobald", "Mark Vance", "Erik Watson"]
+   },
+   {
+        "title": "Die unendliche Geschichte",
+       "actors":["Barret Oliver", "Gerald McRaney", "Chris Eastman", "Darryl Cooksey", "Nicholas Gilbert", "Thomas Hill", "Deep Roy", "Tilo Prückner", "Moses Gunn", "Noah Hathaway"]
+   },
+   {
+        "title": "Unfaithfully Yours",
+       "actors":["Dudley Moore", "Nastassja Kinski", "Armand Assante", "Albert Brooks", "Cassie Yates", "Richard Libertini", "Richard B. Shull", "Jan Tríska", "Jane Hallaren", "Bernard Behrens"]
+   },
+   {
+        "title": "Best Defense",
+       "actors":["Dudley Moore", "Eddie Murphy", "Kate Capshaw", "George Dzundza", "Helen Shaver", "Mark Arnott", "Peter Michael Goetz", "Tom Noonan", "David Rasche", "Paul Comi"]
+   },
+   {
+        "title": "Blame It on Rio",
+       "actors":["Michael Caine", "Joseph Bologna", "Valerie Harper", "Michelle Johnson", "Demi Moore", "José Lewgoy", "Lupe Gigliotti", "Michael Menaugh", "Tessy Callado", "Ana Lucía Lima"]
+   },
+   {
+        "title": "Lassiter",
+       "actors":["Tom Selleck", "Jane Seymour", "Lauren Hutton", "Bob Hoskins", "Joe Regalbuto", "Ed Lauter", "Warren Clarke", "Edward Peel", "Paul Antrim", "Christopher Malcolm"]
+   },
+   {
+        "title": "Angel",
+       "actors":["Cliff Gorman", "Susan Tyrrell", "Dick Shawn", "Rory Calhoun", "Donna Wilkes", "John Diehl", "Elaine Giftos", "Donna McDaniel", "Graem McGavin", "Mel Carter"]
+   },
+   {
+        "title": "Beat Street",
+       "actors":["Rae Dawn Chong", "Guy Davis", "Jon Chardiet", "Leon W. Grant", "Saundra Santiago", "Robert Taylor", "Mary Alice", "Shawn Elliott", "Jim Borrelli", "Dean Elliott"]
+   },
+   {
+        "title": "Breakin\u0027 2: Electric Boogaloo",
+       "actors":["Lucinda Dickey", "Adolfo Quinones", "Michael Chambers", "Susie Coelho", "Harry Caesar", "Jo de Winter", "John Christy Ewing", "Steve Notario", "Sabrina García", "Lu Leonard"]
+   },
+   {
+        "title": "Firestarter",
+       "actors":["David Keith", "Drew Barrymore", "Freddie Jones", "Heather Locklear", "Martin Sheen", "George C. Scott", "Art Carney", "Louise Fletcher", "Moses Gunn", "Antonio Fargas"]
+   },
+   {
+        "title": "The Adventures of Pinocchio",
+       "actors":["Danielle Romeo", "Lacoya Newsome", "Cindy Kozacik", "Tony Roscia", "Pearl Terry", "David Scott"]
+   },
+   {
+        "title": "Children of the Corn",
+       "actors":["Peter Horton", "Linda Hamilton", "R.G. Armstrong", "John Franklin", "Courtney Gains", "Robby Kiger", "Anne Marie McEvoy", "Julie Maddalena", "Jonas Marlowe", "John Philbin"]
+   },
+   {
+        "title": "Night of the Comet",
+       "actors":["Robert Beltran", "Catherine Mary Stewart", "Kelli Maroney", "Sharon Farrell", "Mary Woronov", "Geoffrey Lewis", "Peter Fox", "John Achorn", "Michael Bowen", "Devon Ericson"]
+   },
+   {
+        "title": "The Ice Pirates",
+       "actors":["Robert Urich", "Mary Crosby", "Michael D. Roberts", "Anjelica Huston", "John Matuszak", "Ron Perlman", "John Carradine", "Natalie Core", "Jeremy West", "Bruce Vilanch"]
+   },
+   {
+        "title": "Tank",
+       "actors":["James Garner", "Shirley Jones", "C. Thomas Howell", "Mark Herrier", "Sandy Ward", "Jenilee Harrison", "James Cromwell", "Dorian Harewood", "G.D. Spradlin", "John Hancock"]
+   },
+   {
+        "title": "Supergirl",
+       "actors":["Faye Dunaway", "Helen Slater", "Peter O'Toole", "Hart Bochner", "Mia Farrow", "Brenda Vaccaro", "Peter Cook", "Simon Ward", "Marc McClure", "Maureen Teefy"]
+   },
+   {
+        "title": "The Evil That Men Do",
+       "actors":["Charles Bronson", "Theresa Saldana", "Joseph Maher", "José Ferrer", "René Enríquez", "John Glover", "Raymond St. Jacques", "Antoinette Bower", "Enrique Lucero", "Jorge Luke"]
+   },
+   {
+        "title": "Irreconcilable Differences",
+       "actors":["Ryan O'Neal", "Shelley Long", "Drew Barrymore", "Sam Wanamaker", "Allen Garfield", "Sharon Stone", "Kim Marriner", "Wendy Gordon", "Ken Gale", "Deborah Cody"]
+   },
+   {
+        "title": "Up the Creek",
+       "actors":["Tim Matheson", "Jennifer Runyon", "Stephen Furst", "Dan Monahan", "Sandy Helberg", "Jeff East", "Blaine Novak", "James Sikking", "John Hillerman", "Mark Andrews"]
+   },
+   {
+        "title": "The River",
+       "actors":["Mel Gibson", "Sissy Spacek", "Shane Bailey", "Becky Jo Lynch", "Scott Glenn", "Don Hood", "Billy Green Bush", "James Tolkan", "Bob W. Douglas", "Andy Stahl"]
+   },
+   {
+        "title": "Dreamscape",
+       "actors":["Dennis Quaid", "Max von Sydow", "Christopher Plummer", "Eddie Albert", "Kate Capshaw", "David Patrick Kelly", "George Wendt", "Larry Gelman", "Cory 'Bumper' Yothers", "Redmond Gleeson"]
+   },
+   {
+        "title": "The Wild Life",
+       "actors":["Chris Penn", "Ilan Mitchell-Smith", "Eric Stoltz", "Jenny Wright", "Lea Thompson", "Brin Berliner", "Rick Moranis", "Hart Bochner", "Susan Rinell", "Cari Anne Warder"]
+   },
+   {
+        "title": "Broadway Danny Rose",
+       "actors":["Woody Allen", "Mia Farrow", "Nick Apollo Forte", "Sandy Baron", "Corbett Monica", "Jackie Gayle", "Morty Gunty", "Will Jordan", "Howard Storm", "Jack Rollins"]
+   },
+   {
+        "title": "Falling in Love",
+       "actors":["Robert De Niro", "Meryl Streep", "Harvey Keitel", "Jane Kaczmarek", "George Martin", "David Clennon", "Dianne Wiest", "Victor Argo", "Wiley Earl", "Jesse Bradford"]
+   },
+   {
+        "title": "Where the Boys Are",
+       "actors":["Lisa Hartman", "Lorna Luft", "Wendy Schaal", "Lynn-Holly Johnson", "Russell Todd", "Howard McGillin", "Christopher McDonald", "Daniel McDonald", "Alana Stewart", "Louise Sorel"]
+   },
+   {
+        "title": "Thief of Hearts",
+       "actors":["Steven Bauer", "Barbara Williams", "John Getz", "David Caruso", "Christine Ebersole", "George Wendt", "Alan North", "Romy Windsor", "Joe Nesnow", "Gordon Pulliam"]
+   },
+   {
+        "title": "Cloak \u0026 Dagger",
+       "actors":["Henry Thomas", "Dabney Coleman", "Michael Murphy", "Christina Nigra", "John McIntire", "Jeanette Nolan", "Eloy Casados", "Tim Rossovich", "William Forsythe", "Robert DoQui"]
+   },
+   {
+        "title": "Country",
+       "actors":["Jessica Lange", "Sam Shepard", "Wilford Brimley", "Matt Clark", "Theresa Graham", "Levi L. Knebel", "Jim Haynie", "Sandra Seacat", "Alex Harvey", "Stephanie-Stacy Poyner"]
+   },
+   {
+        "title": "Bolero",
+       "actors":["Bo Derek", "George Kennedy", "Andrea Occhipinti", "Ana Obregón", "Olivia d'Abo", "Greg Bensen", "Ian Cochrane", "Mirta Miller", "Mickey Knox", "Paul Stacey"]
+   },
+   {
+        "title": "Body Double",
+       "actors":["Craig Wasson", "Melanie Griffith", "Gregg Henry", "Deborah Shelton", "Guy Boyd", "Dennis Franz", "David Haskell", "Rebecca Stanley", "Al Israel", "Douglas Warhit"]
+   },
+   {
+        "title": "Oxford Blues",
+       "actors":["Rob Lowe", "Ally Sheedy", "Amanda Pays", "Julian Sands", "Julian Firth", "Alan Howard", "Gail Strickland", "Michael Gough", "Aubrey Morris", "Cary Elwes"]
+   },
+   {
+        "title": "The Bounty",
+       "actors":["Mel Gibson", "Anthony Hopkins", "Laurence Olivier", "Edward Fox", "Daniel Day-Lewis", "Bernard Hill", "Phil Davis", "Liam Neeson", "Wi Kuki Kaa", "Tevaite Vernette"]
+   },
+   {
+        "title": "Nineteen Eighty-Four",
+       "actors":["John Hurt", "Richard Burton", "Suzanna Hamilton", "Cyril Cusack", "Gregor Fisher", "James Walker", "Andrew Wilde", "David Trevena", "David Cann", "Anthony Benson"]
+   },
+   {
+        "title": "Reckless",
+       "actors":["Aidan Quinn", "Daryl Hannah", "Kenneth McMillan", "Cliff De Young", "Lois Smith", "Adam Baldwin", "Dan Hedaya", "Billy Jayne", "Toni Kalem", "Jennifer Grey"]
+   },
+   {
+        "title": "The Philadelphia Experiment",
+       "actors":["Michael Paré", "Nancy Allen", "Eric Christmas", "Bobby Di Cicco", "Louise Latham", "Kene Holiday", "Joe Dorsey", "Michael Currie", "Stephen Tobolowsky", "Gary Brockette"]
+   },
+   {
+        "title": "Streets of Fire",
+       "actors":["Michael Paré", "Diane Lane", "Rick Moranis", "Amy Madigan", "Willem Dafoe", "Deborah Van Valkenburgh", "Richard Lawson", "Rick Rossovich", "Bill Paxton", "Lee Ving"]
+   },
+   {
+        "title": "Just the Way You Are",
+       "actors":["Kristy McNichol", "Michael Ontkean", "Kaki Hunter", "André Dussollier", "Catherine Salviat", "Robert Carradine", "Alexandra Paul", "Lance Guest", "Tim Daly", "Patrick Cassidy"]
+   },
+   {
+        "title": "The Little Drummer Girl",
+       "actors":["Diane Keaton", "Yorgo Voyagis", "Klaus Kinski", "Sami Frey", "Michael Cristofer", "Eli Danker", "Ben Levine", "Jonathan Sagall", "Shlomit Hagoel", "Juliano Mer-Khamis"]
+   },
+   {
+        "title": "Ninja III: The Domination",
+       "actors":["Shô Kosugi", "Lucinda Dickey", "Jordan Bennett", "David Chung", "Dale Ishimoto", "James Hong", "Bob Craig", "Pamela Ness", "Roy Padilla", "Moe Mosley"]
+   },
+   {
+        "title": "Iceman",
+       "actors":["Timothy Hutton", "Lindsay Crouse", "John Lone", "Josef Sommer", "David Strathairn", "Philip Akin", "Danny Glover", "Amelia Hall", "Richard Monette", "James Tolkan"]
+   },
+   {
+        "title": "Hardbodies",
+       "actors":["Grant Cramer", "Teal Roberts", "Gary Wood", "Michael Rapport", "Sorrells Pickard", "Roberta Collins", "Cindy Silver", "Courtney Gains", "Kristi Somers", "Crystal Shaw Martell"]
+   },
+   {
+        "title": "Runaway",
+       "actors":["Tom Selleck", "Cynthia Rhodes", "Gene Simmons", "Kirstie Alley", "Stan Shaw", "G.W. Bailey", "Joey Cramer", "Chris Mulkey", "Anne-Marie Martin", "Michael Paul Chan"]
+   },
+   {
+        "title": "Swing Shift",
+       "actors":["Goldie Hawn", "Kurt Russell", "Christine Lahti", "Fred Ward", "Ed Harris", "Sudie Bond", "Holly Hunter", "Patty Maloney", "Lisa Pelikan", "Susan Peretz"]
+   },
+   {
+        "title": "The Razor\u0027s Edge",
+       "actors":["Bill Murray", "Theresa Russell", "Catherine Hicks", "Denholm Elliott", "James Keach", "Peter Vaughan", "Brian Doyle-Murray", "Stephen Davies", "Saeed Jaffrey", "Faith Brook"]
+   },
+   {
+        "title": "The Adventures of Buckaroo Banzai Across the 8th Dimension",
+       "actors":["Peter Weller", "John Lithgow", "Ellen Barkin", "Jeff Goldblum", "Christopher Lloyd", "Lewis Smith", "Rosalind Cash", "Robert Ito", "Pepe Serna", "Ronald Lacey"]
+   },
+   {
+        "title": "Firstborn",
+       "actors":["Teri Garr", "Peter Weller", "Christopher Collet", "Corey Haim", "Sarah Jessica Parker", "Robert Downey Jr.", "Chris Gartin", "James Harper", "Richard Brandon", "Gayle Harbor"]
+   },
+   {
+        "title": "The Pope of Greenwich Village",
+       "actors":["Eric Roberts", "Mickey Rourke", "Daryl Hannah", "Geraldine Page", "Kenneth McMillan", "Tony Musante", "M. Emmet Walsh", "Burt Young", "Jack Kehoe", "Philip Bosco"]
+   },
+   {
+        "title": "Racing with the Moon",
+       "actors":["Sean Penn", "Elizabeth McGovern", "Nicolas Cage", "John Karlen", "Rutanya Alda", "Max Showalter", "Crispin Glover", "Barbara Howard", "Bob Maroff", "Dominic Nardini"]
+   },
+   {
+        "title": "Sheena",
+       "actors":["Tanya Roberts", "Ted Wass", "Donovan Scott", "Elizabeth of Toro", "France Zobda", "Trevor Thomas", "Clifton Jones", "John Forgeham", "Errol John", "Sylvester Williams"]
+   },
+   {
+        "title": "The Lonely Guy",
+       "actors":["Steve Martin", "Charles Grodin", "Judith Ivey", "Steve Lawrence", "Robyn Douglass", "Merv Griffin", "Joyce Brothers", "Candi Brough", "Randi Brough", "Julie Payne"]
+   }
+   ]
+}

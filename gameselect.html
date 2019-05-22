@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Starring Game</title>
+
+            
+        <link rel="stylesheet" type="text/css" href="css/style.css">   
+
+        <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+        <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.grey-yellow.min.css" />
+        <script src="gameselect.js"></script>
+        <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+        <link rel="stylesheet" href="libraries/getmdl-select/getmdl-select.min.css">
+        <script defer src="libraries/getmdl-select/getmdl-select.min.js"></script>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        <div class="upper_bar">
+            <img id="small_logo" src="resources/StarringGameLogo.png"/>
+        </div>
+
+        <div class="heading">
+            <h1>Choose Game Category:</h1>
+        </div>
+
+        <div class="mdl-grid center-items">
+            <font size="4">Category Type:&nbsp&nbsp&nbsp&nbsp</font>
+            <label class="mdl-radio mdl-js-radio mdl-js-ripple-effect" for="option-1">
+                <input type="radio" id="option-1" class="mdl-radio__button" name="options" value="year"
+                    oninput="setType('year')">
+                <span class="mdl-radio__label">Release Year</span>
+            </label>
+            &nbsp
+        </div>
+        
+        <!--
+        <div class="mdl-grid center-items">
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fix-height">
+                <input type="text" value="" class="mdl-textfield__input" id="category_type" readonly onchange="setType(value)">
+                <input type="hidden" value="" name="category_type">
+                <i class="mdl-icon-toggle__label material-icons">keyboard_arrow_down</i>
+                <label for="category_type" class="mdl-textfield__label">Category Type</label>
+                <ul for="category_type" class="mdl-menu mdl-menu--bottom-left mdl-js-menu">
+                    <li class="mdl-menu__item" data-val="RY">Release Year</li>
+                    <li class="mdl-menu__item" data-val="GE">Genre</li>
+                    <li class="mdl-menu__item" data-val="AW">Award</li>
+                </ul>
+            </div>
+        </div>
+        -->
+
+        <div class="mdl-grid center-items">
+            <div class="mdl-textfield mdl-js-textfield mdl-textfield--floating-label getmdl-select getmdl-select__fix-height" id="category_select">
+                <input type="text" value="" class="mdl-textfield__input" id="category" readonly onchange="setCategory(value)">
+                <input type="hidden" value="" name="category">
+                <i class="mdl-icon-toggle__label material-icons">keyboard_arrow_down</i>
+                <label for="category" class="mdl-textfield__label">Category</label>
+                <ul for="category" class="mdl-menu mdl-menu--bottom-left mdl-js-menu">
+                    <li class="mdl-menu__item" data-val="NA" data-selected="true" disabled>Please select type first</li>
+                </ul>
+            </div>
+        </div>
+
+        <button id="setup_button" class="mdl-button mdl-js-button mdl-button--raised mdl-js-ripple-effect mdl-button--accent" onclick="location.href='gamesetup.html'">
+            Go to Game Setup
+        </button>
+
+    </body>
+</html>

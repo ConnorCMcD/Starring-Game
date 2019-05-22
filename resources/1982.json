@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "E.T. the Extra-Terrestrial",
+       "actors":["Dee Wallace", "Henry Thomas", "Peter Coyote", "Robert MacNaughton", "Drew Barrymore", "K.C. Martel", "Sean Frye", "C. Thomas Howell", "Erika Eleniak", "David M. O'Dell"]
+   },
+   {
+        "title": "Tootsie",
+       "actors":["Dustin Hoffman", "Jessica Lange", "Teri Garr", "Dabney Coleman", "Charles Durning", "Bill Murray", "Sydney Pollack", "George Gaynes", "Geena Davis", "Doris Belack"]
+   },
+   {
+        "title": "An Officer and a Gentleman",
+       "actors":["Richard Gere", "Debra Winger", "David Keith", "Robert Loggia", "Lisa Blount", "Lisa Eilbacher", "Louis Gossett Jr.", "Tony Plana", "Harold Sylvester", "David Caruso"]
+   },
+   {
+        "title": "Rocky III",
+       "actors":["Sylvester Stallone", "Talia Shire", "Burt Young", "Carl Weathers", "Burgess Meredith", "Tony Burton", "Mr. T", "Hulk Hogan", "Ian Fried", "Al Silvani"]
+   },
+   {
+        "title": "Star Trek II: The Wrath of Khan",
+       "actors":["William Shatner", "Leonard Nimoy", "DeForest Kelley", "James Doohan", "Walter Koenig", "George Takei", "Nichelle Nichols", "Bibi Besch", "Merritt Butrick", "Paul Winfield"]
+   },
+   {
+        "title": "48 Hrs.",
+       "actors":["Nick Nolte", "Eddie Murphy", "Annette O'Toole", "Frank McRae", "James Remar", "David Patrick Kelly", "Sonny Landham", "Brion James", "Kerry Sherman", "Jonathan Banks"]
+   },
+   {
+        "title": "Poltergeist",
+       "actors":["Craig T. Nelson", "JoBeth Williams", "Beatrice Straight", "Dominique Dunne", "Oliver Robins", "Heather O'Rourke", "Michael McManus", "Virginia Kiser", "Martin Casella", "Richard Lawson"]
+   },
+   {
+        "title": "The Best Little Whorehouse in Texas",
+       "actors":["Burt Reynolds", "Dolly Parton", "Dom DeLuise", "Charles Durning", "Jim Nabors", "Robert Mandan", "Lois Nettleton", "Theresa Merritt", "Noah Beery Jr.", "Raleigh Bond"]
+   },
+   {
+        "title": "Annie",
+       "actors":["Albert Finney", "Carol Burnett", "Ann Reinking", "Tim Curry", "Bernadette Peters", "Aileen Quinn", "Geoffrey Holder", "Roger Minami", "Toni Ann Gisondi", "Rosanne Sorrentino"]
+   },
+   {
+        "title": "The Verdict",
+       "actors":["Paul Newman", "Charlotte Rampling", "Jack Warden", "James Mason", "Milo O'Shea", "Lindsay Crouse", "Edward Binns", "Julie Bovasso", "Roxanne Hart", "James Handy"]
+   },
+   {
+        "title": "Gandhi",
+       "actors":["Ben Kingsley", "Rohini Hattangadi", "Roshan Seth", "Candice Bergen", "Edward Fox", "John Gielgud", "Trevor Howard", "John Mills", "Martin Sheen", "Ian Charleson"]
+   },
+   {
+        "title": "First Blood",
+       "actors":["Sylvester Stallone", "Richard Crenna", "Brian Dennehy", "Bill McKinney", "Jack Starrett", "Michael Talbott", "Chris Mulkey", "John McLiam", "Alf Humphreys", "David Caruso"]
+   },
+   {
+        "title": "The Toy",
+       "actors":["Richard Pryor", "Jackie Gleason", "Ned Beatty", "Scott Schwartz", "Teresa Ganzel", "Wilfrid Hyde-White", "Annazette Chase", "Tony King", "Don Hood", "Karen Leslie-Lyttle"]
+   },
+   {
+        "title": "Firefox",
+       "actors":["Clint Eastwood", "Freddie Jones", "David Huffman", "Warren Clarke", "Ronald Lacey", "Kenneth Colley", "Klaus Löwitsch", "Nigel Hawthorne", "Stefan Schnabel", "Thomas Hill"]
+   },
+   {
+        "title": "The Dark Crystal",
+       "actors":["Jim Henson", "Kathryn Mullen", "Frank Oz", "Dave Goelz", "Steve Whitmire", "Louise Gold", "Brian Muehl", "Bob Payne", "Mike Quinn", "Tim Rose"]
+   },
+   {
+        "title": "Conan the Barbarian",
+       "actors":["Arnold Schwarzenegger", "James Earl Jones", "Max von Sydow", "Sandahl Bergman", "Ben Davidson", "Cassandra Gava", "Gerry Lopez", "Mako", "Valérie Quennessen", "William Smith"]
+   },
+   {
+        "title": "The Sword and the Sorcerer",
+       "actors":["Lee Horsley", "Kathleen Beller", "Simon MacCorkindale", "George Maharis", "Richard Lynch", "Richard Moll", "Anthony De Longis", "Robert Tessier", "Nina van Pallandt", "Anna Bjorn"]
+   },
+   {
+        "title": "Best Friends",
+       "actors":["Burt Reynolds", "Goldie Hawn", "Jessica Tandy", "Barnard Hughes", "Audra Lindley", "Keenan Wynn", "Ron Silver", "Carol Locatell", "Richard Libertini", "Peggy Walton-Walker"]
+   },
+   {
+        "title": "Friday the 13th Part III",
+       "actors":["Terry Ballard", "Richard Brooker", "Gloria Charles", "Rachel Howard", "David Katims", "Dana Kimmell", "Paul Kratka", "Cheri Maugans", "Terence McCorry", "Charlie Messenger"]
+   },
+   {
+        "title": "TRON",
+       "actors":["Jeff Bridges", "Bruce Boxleitner", "David Warner", "Cindy Morgan", "Barnard Hughes", "Dan Shor", "Peter Jurasik", "Stuart Thomas", "Craig Chudy", "Vince Deadrick Jr."]
+   },
+   {
+        "title": "Young Doctors in Love",
+       "actors":["Sean Young", "Michael McKean", "Gary Friedkin", "Kyle T. Heffner", "Rick Overton", "Crystal Bernard", "Ted McGinley", "Saul Rubinek", "Harry Dean Stanton", "Pamela Reed"]
+   },
+   {
+        "title": "Sophie\u0027s Choice",
+       "actors":["Meryl Streep", "Kevin Kline", "Peter MacNicol", "Rita Karin", "Stephen D. Newman", "Greta Turken", "Josh Mostel", "Marcell Rosenblatt", "Moishe Rosenfeld", "Robin Bartlett"]
+   },
+   {
+        "title": "The World According to Garp",
+       "actors":["Robin Williams", "Mary Beth Hurt", "Glenn Close", "John Lithgow", "Hume Cronyn", "Jessica Tandy", "Swoosie Kurtz", "James McCall", "Peter Michael Goetz", "George Ede"]
+   },
+   {
+        "title": "Airplane II: The Sequel",
+       "actors":["Lloyd Bridges", "Raymond Burr", "Chuck Connors", "Rip Torn", "John Dehner", "Chad Everett", "Peter Graves", "Julie Hagerty", "Robert Hays", "Kent McCord"]
+   },
+   {
+        "title": "Fast Times at Ridgemont High",
+       "actors":["Sean Penn", "Jennifer Jason Leigh", "Judge Reinhold", "Robert Romanus", "Brian Backer", "Phoebe Cates", "Ray Walston", "Scott Thomson", "Vincent Schiavelli", "Amanda Wyss"]
+   },
+   {
+        "title": "Blade Runner",
+       "actors":["Harrison Ford", "Rutger Hauer", "Sean Young", "Edward James Olmos", "M. Emmet Walsh", "Daryl Hannah", "William Sanderson", "Brion James", "Joe Turkel", "Joanna Cassidy"]
+   },
+   {
+        "title": "Some Kind of Hero",
+       "actors":["Richard Pryor", "Margot Kidder", "Ray Sharkey", "Ronny Cox", "Lynne Moody", "Olivia Cole", "Paul Benjamin", "David Adams", "Martin Azarow", "Shelly Batt"]
+   },
+   {
+        "title": "Night Shift",
+       "actors":["Henry Winkler", "Michael Keaton", "Shelley Long", "Gina Hecht", "Pat Corley", "Bobby Di Cicco", "Nita Talbot", "Basil Hoffman", "Tim Rossovich", "Clint Howard"]
+   },
+   {
+        "title": "Pink Floyd: The Wall",
+       "actors":["Bob Geldof", "Christine Hargreaves", "James Laurenson", "Eleanor David", "Kevin McKeon", "Bob Hoskins", "David Bingham", "Jenny Wright", "Alex McAvoy", "Ellis Dale"]
+   },
+   {
+        "title": "Victor Victoria",
+       "actors":["Julie Andrews", "James Garner", "Robert Preston", "Lesley Ann Warren", "Alex Karras", "John Rhys-Davies", "Graham Stark", "Peter Arne", "Herb Tanney", "Michael Robbins"]
+   },
+   {
+        "title": "Things Are Tough All Over",
+       "actors":["Toni Attell", "Mike Bacarella", "Billy Beck", "Don Bovingloh", "Richard 'Moon' Calhoun", "Tommy Chong", "Jennifer Condos", "John Corrona", "Dave Coulier", "Shelby Chong"]
+   },
+   {
+        "title": "The Man from Snowy River",
+       "actors":["Tom Burlinson", "Terence Donovan", "Kirk Douglas", "Tommy Dysart", "Bruce Kerr", "David Bradshaw", "Sigrid Thornton", "Jack Thompson", "Tony Bonner", "June Jago"]
+   },
+   {
+        "title": "Six Pack",
+       "actors":["Kenny Rogers", "Diane Lane", "Erin Gray", "Barry Corbin", "Terry Kiser", "Bob Hannah", "Tom Abernathy", "Robbie Fleming", "Anthony Michael Hall", "Robby Still"]
+   },
+   {
+        "title": "My Favorite Year",
+       "actors":["Peter O'Toole", "Mark Linn-Baker", "Jessica Harper", "Joseph Bologna", "Bill Macy", "Lainie Kazan", "Anne De Salvo", "Basil Hoffman", "Lou Jacobi", "Adolph Green"]
+   },
+   {
+        "title": "Creepshow",
+       "actors":["Hal Holbrook", "Adrienne Barbeau", "Fritz Weaver", "Leslie Nielsen", "Carrie Nye", "E.G. Marshall", "Viveca Lindfors", "Ed Harris", "Ted Danson", "Stephen King"]
+   },
+   {
+        "title": "Deathtrap",
+       "actors":["Michael Caine", "Christopher Reeve", "Dyan Cannon", "Irene Worth", "Henry Jones", "Joe Silver", "Tony DiBenedetto", "Al LeBreton", "Francis B. Creamer Jr.", "Stewart Klein"]
+   },
+   {
+        "title": "Dead Men Don\u0027t Wear Plaid",
+       "actors":["Steve Martin", "Rachel Ward", "Alan Ladd", "Carl Reiner", "Barbara Stanwyck", "Ray Milland", "Ava Gardner", "Burt Lancaster", "Humphrey Bogart", "Cary Grant"]
+   },
+   {
+        "title": "Zapped!",
+       "actors":["Scott Baio", "Willie Aames", "Robert Mandan", "Felice Schachter", "Scatman Crothers", "Roger Bowen", "Mews Small", "Greg Bradford", "Hilary Beane", "Sue Ane Langdon"]
+   },
+   {
+        "title": "They Call Me Bruce?",
+       "actors":["Johnny Yune", "Margaux Hemingway", "Raf Mauro", "Pam Huntington", "Martin Azarow", "Tony Brande", "Bill Capizzi", "Harvey Vernon", "Heshimu Cumbuka", "Bob Hannah"]
+   },
+   {
+        "title": "Death Wish II",
+       "actors":["Charles Bronson", "Jill Ireland", "Vincent Gardenia", "J.D. Cannon", "Anthony Franciosa", "Ben Frank", "Robin Sherwood", "Silvana Gallardo", "Robert F. Lyons", "Michael Prince"]
+   },
+   {
+        "title": "Kiss Me Goodbye",
+       "actors":["Sally Field", "James Caan", "Jeff Bridges", "Paul Dooley", "Claire Trevor", "Mildred Natwick", "Dorothy Fielding", "William Prince", "Maryedith Burrell", "Alan Haufrect"]
+   },
+   {
+        "title": "Grease 2",
+       "actors":["Maxwell Caulfield", "Michelle Pfeiffer", "Lorna Luft", "Maureen Teefy", "Alison Price", "Pamela Adlon", "Adrian Zmed", "Peter Frechette", "Christopher McDonald", "Leif Green"]
+   },
+   {
+        "title": "Halloween III: Season of the Witch",
+       "actors":["Tom Atkins", "Stacey Nelkin", "Dan O'Herlihy", "Michael Currie", "Ralph Strait", "Jadeen Barbor", "Brad Schacter", "Garn Stephens", "Nancy Kyes", "Jonathan Terry"]
+   },
+   {
+        "title": "Diner",
+       "actors":["Steve Guttenberg", "Daniel Stern", "Mickey Rourke", "Kevin Bacon", "Tim Daly", "Ellen Barkin", "Paul Reiser", "Kathryn Dowling", "Michael Tucker", "Jessica James"]
+   },
+   {
+        "title": "The Beastmaster",
+       "actors":["Marc Singer", "Tanya Roberts", "Rip Torn", "John Amos", "Joshua Milrad", "Rod Loomis", "Ben Hammer", "Ralph Strait", "Billy Jayne", "Janet DeMay"]
+   },
+   {
+        "title": "Missing",
+       "actors":["Jack Lemmon", "Sissy Spacek", "Melanie Mayron", "John Shea", "Charles Cioffi", "David Clennon", "Richard Venture", "Jerry Hardin", "Richard Bradford", "Joe Regalbuto"]
+   },
+   {
+        "title": "The Thing",
+       "actors":["Kurt Russell", "Wilford Brimley", "T.K. Carter", "David Clennon", "Keith David", "Richard Dysart", "Charles Hallahan", "Peter Maloney", "Richard Masur", "Donald Moffat"]
+   },
+   {
+        "title": "The Entity",
+       "actors":["Barbara Hershey", "Ron Silver", "David Labiosa", "George Coe", "Margaret Blye", "Jacqueline Brookes", "Richard Brestoff", "Michael Alldredge", "Raymond Singer", "Allan Rich"]
+   },
+   {
+        "title": "Visiting Hours",
+       "actors":["Michael Ironside", "Lee Grant", "Linda Purl", "William Shatner", "Lenore Zann", "Harvey Atkin", "Helen Hughes", "Michael J. Reynolds", "Kirsten Bishop", "Deborah Kirshenbaum"]
+   },
+   {
+        "title": "Vice Squad",
+       "actors":["Season Hubley", "Gary Swanson", "Wings Hauser", "Pepe Serna", "Beverly Todd", "Joseph Di Giroloma", "Maurice Emanuel", "Wayne Hackett", "Nina Blackwood", "Sudana Bobatoon"]
+   },
+   {
+        "title": "Author! Author!",
+       "actors":["Al Pacino", "Dyan Cannon", "Tuesday Weld", "Bob Dishy", "Bob Elliott", "Ray Goulding", "Eric Gurry", "Elva Josephson", "B.J. Barie", "Ari Meyers"]
+   },
+   {
+        "title": "Amityville II: The Possession",
+       "actors":["James Olson", "Burt Young", "Rutanya Alda", "Jack Magner", "Andrew Prine", "Diane Franklin", "Moses Gunn", "Ted Ross", "Erika Katz", "Brent Katz"]
+   },
+   {
+        "title": "Monsignor",
+       "actors":["Christopher Reeve", "Geneviève Bujold", "Fernando Rey", "Jason Miller", "Joe Cortese", "Adolfo Celi", "Leonardo Cimino", "Tomas Milian", "Robert Prosky", "Joe Pantoliano"]
+   },
+   {
+        "title": "Making Love",
+       "actors":["Michael Ontkean", "Kate Jackson", "Harry Hamlin", "Wendy Hiller", "Arthur Hill", "Nancy Olson", "John Dukakis", "Terry Kiser", "Dennis Howard", "Asher Brauner"]
+   },
+   {
+        "title": "The Seduction",
+       "actors":["Morgan Fairchild", "Michael Sarrazin", "Vince Edwards", "Andrew Stevens", "Colleen Camp", "Kevin Brophy", "Wendy Smith Howard", "Woodrow Parfrey", "Betty Kean", "Joanne Linville"]
+   },
+   {
+        "title": "Silent Rage",
+       "actors":["Chuck Norris", "Ron Silver", "Steven Keats", "Toni Kalem", "William Finley", "Brian Libby", "Stephen Furst", "Stephanie Dunnam", "Joyce Ingle", "Jay De Plano"]
+   },
+   {
+        "title": "The Year of Living Dangerously",
+       "actors":["Linda Hunt", "Mel Gibson", "Bembol Roco", "Domingo Landicho", "Hermino De Guzman", "Michael Murphy", "Noel Ferrier", "Paul Sonkkila", "Ali Nur", "Dominador Robridillo"]
+   },
+   {
+        "title": "The Secret of NIMH",
+       "actors":["Derek Jacobi", "Elizabeth Hartman", "Arthur Malet", "Dom DeLuise", "Hermione Baddeley", "Shannen Doherty", "Wil Wheaton", "Jodi Hicks", "Ian Fried", "John Carradine"]
+   },
+   {
+        "title": "Class Reunion",
+       "actors":["Gerrit Graham", "Michael Lerner", "Fred McCarren", "Miriam Flynn", "Stephen Furst", "Mews Small", "Shelley Smith", "Zane Buzby", "Jacklyn Zeman", "Blackie Dammett"]
+   },
+   {
+        "title": "Hanky Panky",
+       "actors":["Gene Wilder", "Gilda Radner", "Kathleen Quinlan", "Richard Widmark", "Robert Prosky", "Josef Sommer", "Johnny Sekka", "Jay O. Sanders", "Sam Gray", "Larry Bryggman"]
+   },
+   {
+        "title": "Shoot the Moon",
+       "actors":["Albert Finney", "Diane Keaton", "Karen Allen", "Peter Weller", "Dana Hill", "Viveka Davis", "Tracey Gold", "Tina Yothers", "George Murdock", "Leora Dana"]
+   },
+   {
+        "title": "A Midsummer Night\u0027s Sex Comedy",
+       "actors":["Woody Allen", "Mia Farrow", "José Ferrer", "Julie Hagerty", "Tony Roberts", "Mary Steenburgen", "Adam Redfield", "Moishe Rosenfeld", "Timothy Jenkins", "Michael Higgins"]
+   },
+   {
+        "title": "Trail of the Pink Panther",
+       "actors":["Peter Sellers", "David Niven", "Herbert Lom", "Richard Mulligan", "Joanna Lumley", "Capucine", "Robert Loggia", "Harvey Korman", "Burt Kwouk", "Graham Stark"]
+   },
+   {
+        "title": "If You Could See What I Hear",
+       "actors":["Marc Singer", "R.H. Thomson", "Sarah Torgov", "Shari Belafonte", "Douglas Campbell", "Helen Burns", "Harvey Atkin", "Barbara Gordon", "Sharon Lewis", "Lynda Mason Green"]
+   },
+   {
+        "title": "Night Crossing",
+       "actors":["John Hurt", "Jane Alexander", "Doug McKeon", "Keith McKeon", "Beau Bridges", "Glynnis O'Connor", "Geoffrey Liesik", "Michael Liesik", "Ian Bannen", "Anne Stallybrass"]
+   },
+   {
+        "title": "The Beast Within",
+       "actors":["Ronny Cox", "Bibi Besch", "Paul Clemens", "Don Gordon", "R.G. Armstrong", "Katherine Moffat", "L.Q. Jones", "Logan Ramsey", "John Dennis Johnston", "Ron Soble"]
+   },
+   {
+        "title": "The Missionary",
+       "actors":["Michael Palin", "Maggie Smith", "Trevor Howard", "Denholm Elliott", "Michael Hordern", "Graham Crowden", "David Suchet", "Phoebe Nicholls", "Tricia George", "Valerie Whittington"]
+   },
+   {
+        "title": "Tex",
+       "actors":["Matt Dillon", "Jim Metzler", "Meg Tilly", "Bill McKinney", "Frances Lee McCain", "Ben Johnson", "Emilio Estevez", "Jack Thibeau", "Zeljko Ivanek", "Tom Virtue"]
+   },
+   {
+        "title": "Parasite",
+       "actors":["Robert Glaudini", "Demi Moore", "Luca Bercovici", "James Davidson", "Al Fann", "Tom Villard", "Scott Thomson", "Cherie Currie", "Vivian Blaine", "James Cavan"]
+   },
+   {
+        "title": "Cat People",
+       "actors":["Nastassja Kinski", "Malcolm McDowell", "John Heard", "Annette O'Toole", "Ruby Dee", "Ed Begley Jr.", "Scott Paulin", "Frankie Faison", "Ron Diamond", "Lynn Lowry"]
+   },
+   {
+        "title": "I Ought to Be in Pictures",
+       "actors":["Walter Matthau", "Ann-Margret", "Dinah Manoff", "Lance Guest", "Calvin Ander", "Shelby Balik", "Larry Barton", "Eugene Butler", "Bill Cross", "Michael Dudikoff"]
+   },
+   {
+        "title": "Six Weeks",
+       "actors":["Dudley Moore", "Mary Tyler Moore", "Katherine Healy", "Shannon Wilcox", "Bill Calvert", "Joe Regalbuto", "John Harkins", "Michael Ensign", "Anne Ditchburn", "Chea Collette"]
+   },
+   {
+        "title": "Forced Vengeance",
+       "actors":["Chuck Norris", "Mary Louise Weller", "Camila Griggs", "Michael Cavanaugh", "David Opatoshu", "Seiji Sakaguchi", "Frank Michael Liu", "Bob Minor", "Lloyd Kino", "Leigh Hamilton"]
+   },
+   {
+        "title": "The Last Unicorn",
+       "actors":["Alan Arkin", "Jeff Bridges", "Mia Farrow", "Tammy Grimes", "Robert Klein", "Angela Lansbury", "Christopher Lee", "Keenan Wynn", "Paul Frees", "Rene Auberjonois"]
+   },
+   {
+        "title": "The Soldier",
+       "actors":["Ken Wahl", "Alberta Watson", "Jeremiah Sullivan", "William Prince", "Joaquim de Almeida", "Peter Hooten", "Steve James", "Alexander Spencer", "Klaus Kinski", "Bill Anagnos"]
+   },
+   {
+        "title": "The Border",
+       "actors":["Jack Nicholson", "Harvey Keitel", "Valerie Perrine", "Warren Oates", "Elpidia Carrillo", "Shannon Wilcox", "Manuel Viescas", "Jeff Morris", "Mike Gomez", "Dirk Blocker"]
+   },
+   {
+        "title": "Evil Under the Sun",
+       "actors":["Peter Ustinov", "Colin Blakely", "Jane Birkin", "Nicholas Clay", "Maggie Smith", "Roddy McDowall", "Sylvia Miles", "James Mason", "Denis Quilley", "Diana Rigg"]
+   },
+   {
+        "title": "Partners",
+       "actors":["Ryan O'Neal", "John Hurt", "Kenneth McMillan", "Robyn Douglass", "Jay Robinson", "Denise Galik", "Joseph R. Sicari", "Michael McGuire", "Rick Jason", "James Remar"]
+   },
+   {
+        "title": "Der Stand der Dinge",
+       "actors":["Isabelle Weingarten", "Rebecca Pauly", "Jeffrey Kime", "Geoffrey Carey", "Camila Mora-Scheihing", "Alexandra Auder", "Patrick Bauchau", "John Paul Getty III", "Viva", "Samuel Fuller"]
+   },
+   {
+        "title": "Still of the Night",
+       "actors":["Roy Scheider", "Meryl Streep", "Jessica Tandy", "Joe Grifasi", "Sara Botsford", "Josef Sommer", "Frederikke Borge", "Irving Metzman", "Larry Joshua", "Tom Norton"]
+   },
+   {
+        "title": "The Last American Virgin",
+       "actors":["Lawrence Monoson", "Diane Franklin", "Steve Antin", "Joe Rubbo", "Louisa Moritz", "Brian Peck", "Kimmy Robertson", "Tessa Richarde", "Winifred Freedman", "Gerri Idol"]
+   },
+   {
+        "title": "Megaforce",
+       "actors":["Barry Bostwick", "Michael Beck", "Persis Khambatta", "Edward Mulhare", "George Furth", "Henry Silva", "Mike Kulcsar", "Ralph Wilcox", "Evan C. Kim", "Anthony Pena"]
+   },
+   {
+        "title": "Personal Best",
+       "actors":["Mariel Hemingway", "Scott Glenn", "Patrice Donnelly", "Kenny Moore", "Jim Moody", "Kari G. Peyton", "Jodi Anderson", "Maren Seidler", "Martha Watson", "Emily Dole"]
+   },
+   {
+        "title": "Paradise",
+       "actors":["Willie Aames", "Phoebe Cates", "Tuvia Tavi", "Richard Curnock", "Neil Vipond", "Aviva Marks", "Joseph Shiloach", "Shoshana Duer", "Jerry Rosen", "Riki Halfon"]
+   },
+   {
+        "title": "Cannery Row",
+       "actors":["Nick Nolte", "Debra Winger", "Audra Lindley", "Frank McRae", "M. Emmet Walsh", "Tom Mahoney", "John Malloy", "James Keane", "Sunshine Parker", "Santos Morales"]
+   },
+   {
+        "title": "Heidi\u0027s Song",
+       "actors":["Lorne Greene", "Sammy Davis Jr.", "Margery Gray", "Michael Bell", "Peter Cullen", "Roger DeWitt", "Richard Erdman", "Fritz Feld", "Pamelyn Ferdin", "Joan Gerber"]
+   },
+   {
+        "title": "Tempest",
+       "actors":["John Cassavetes", "Gena Rowlands", "Susan Sarandon", "Vittorio Gassman", "Raul Julia", "Molly Ringwald", "Sam Robards", "Paul Stewart", "Jackie Gayle", "Anthony Holland"]
+   },
+   {
+        "title": "Frances",
+       "actors":["Jessica Lange", "Sam Shepard", "Kim Stanley", "Bart Burns", "Christopher Pennock", "James Karen", "Gerald S. O'Loughlin", "Sarah Cunningham", "Allan Rich", "Woodrow Parfrey"]
+   },
+   {
+        "title": "Fanny och Alexander",
+       "actors":["Kristina Adolphson", "Börje Ahlstedt", "Pernilla Allwin", "Kristian Almgren", "Carl Billquist", "Axel Düberg", "Allan Edwall", "Siv Ericks", "Ewa Fröling", "Patricia Gélin"]
+   },
+   {
+        "title": "Summer Lovers",
+       "actors":["Peter Gallagher", "Daryl Hannah", "Valérie Quennessen", "Barbara Rush", "Carole Cook", "Hans van Tongeren", "Lydia Lenosi", "Vladimiros Kiriakidis", "Carlos Rodríguez Ramos", "Rika Dialyna"]
+   },
+   {
+        "title": "Honkytonk Man",
+       "actors":["Clint Eastwood", "Kyle Eastwood", "John McIntire", "Alexa Kenin", "Verna Bloom", "Matt Clark", "Barry Corbin", "Jerry Hardin", "Tim Thomerson", "Macon McCalman"]
+   },
+   {
+        "title": "Jekyll and Hyde... Together Again",
+       "actors":["Mark Blankfield", "Bess Armstrong", "Krista Errickson", "Tim Thomerson", "Michael McGuire", "Neil Hunt", "Cassandra Peterson", "Jessica Nelson", "Peter Brocco", "Michael Klingher"]
+   },
+   {
+        "title": "La traviata",
+       "actors":["Teresa Stratas", "Plácido Domingo", "Cornell MacNeil", "Allan Monk", "Axelle Gall", "Pina Cei", "Maurizio Barbacini", "Robert Sommer", "Richard Oneto", "Renato Cestiè"]
+   },
+   {
+        "title": "The Challenge",
+       "actors":["Scott Glenn", "Toshirô Mifune", "Donna Kei Benz", "Atsuo Nakamura", "Calvin Jung", "Clyde Kusatsu", "Sab Shimono", "Kiyoaki Nagai", "Kenta Fukasaku", "Shôgo Shimada"]
+   },
+   {
+        "title": "Wrong Is Right",
+       "actors":["Sean Connery", "George Grizzard", "Robert Conrad", "Katharine Ross", "G.D. Spradlin", "John Saxon", "Henry Silva", "Leslie Nielsen", "Robert Webber", "Rosalind Cash"]
+   },
+   {
+        "title": "Fighting Back",
+       "actors":["Tom Skerritt", "Patti LuPone", "Michael Sarrazin", "Yaphet Kotto", "David Rasche", "Donna DeVarona", "Gina DeAngeles", "Jonathan Adam Sherman", "Pat Cooper", "Jim Lovelett"]
+   },
+   {
+        "title": "Penitentiary II",
+       "actors":["Leon Isaac Kennedy", "Glynn Turman", "Ernie Hudson", "Mr. T", "Peggy Blow", "Sephton Moody", "Donovan Womack", "Malik Carter", "Stan Kamber", "Cepheus Jaxon"]
+   },
+   {
+        "title": "Homework",
+       "actors":["Joan Collins", "Michael Morgan", "Shell Kepler", "Lanny Horn", "Erin Donovan", "Renee Harris", "Mark Brown", "Lee Purcell", "Carrie Snodgress", "Wings Hauser"]
+   },
+   {
+        "title": "Jinxed!",
+       "actors":["Bette Midler", "Ken Wahl", "Rip Torn", "Val Avery", "Jack Elam", "Benson Fong", "Jacqueline Scott", "F. William Parker", "Ian Wolfe", "George Dickerson"]
+   },
+   {
+        "title": "Who Dares Wins",
+       "actors":["Lewis Collins", "Judy Davis", "Richard Widmark", "Edward Woodward", "Robert Webber", "Tony Doyle", "John Duttine", "Kenneth Griffith", "Rosalind Lloyd", "Ingrid Pitt"]
+   }
+   ]
+}

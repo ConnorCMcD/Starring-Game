@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "The Hunger Games: Catching Fire",
+       "actors":["Jennifer Lawrence", "Liam Hemsworth", "Jack Quaid", "Taylor St. Clair", "Sandra Ellis Lafferty", "Woody Harrelson", "Josh Hutcherson", "Paula Malcomson", "Willow Shields", "Donald Sutherland"]
+   },
+   {
+        "title": "Iron Man Three",
+       "actors":["Robert Downey Jr.", "Gwyneth Paltrow", "Don Cheadle", "Guy Pearce", "Rebecca Hall", "Jon Favreau", "Ben Kingsley", "James Badge Dale", "Stephanie Szostak", "Paul Bettany"]
+   },
+   {
+        "title": "Frozen",
+       "actors":["Kristen Bell", "Idina Menzel", "Jonathan Groff", "Josh Gad", "Santino Fontana", "Alan Tudyk", "Ciarán Hinds", "Chris Williams", "Stephen J. Anderson", "Maia Wilson"]
+   },
+   {
+        "title": "Despicable Me 2",
+       "actors":["Steve Carell", "Kristen Wiig", "Benjamin Bratt", "Miranda Cosgrove", "Russell Brand", "Ken Jeong", "Steve Coogan", "Elsie Fisher", "Dana Gaier", "Moises Arias"]
+   },
+   {
+        "title": "Man of Steel",
+       "actors":["Henry Cavill", "Amy Adams", "Michael Shannon", "Diane Lane", "Russell Crowe", "Antje Traue", "Harry Lennix", "Richard Schiff", "Christopher Meloni", "Kevin Costner"]
+   },
+   {
+        "title": "Gravity",
+       "actors":["Sandra Bullock", "George Clooney", "Ed Harris", "Orto Ignatiussen", "Phaldut Sharma", "Amy Warren", "Basher Savage", "Sandra Bullock", "George Clooney", "Steven Price"]
+   },
+   {
+        "title": "Monsters University",
+       "actors":["Billy Crystal", "John Goodman", "Steve Buscemi", "Helen Mirren", "Peter Sohn", "Joel Murray", "Sean Hayes", "Dave Foley", "Charlie Day", "Alfred Molina"]
+   },
+   {
+        "title": "The Hobbit: The Desolation of Smaug",
+       "actors":["Ian McKellen", "Martin Freeman", "Richard Armitage", "Ken Stott", "Graham McTavish", "William Kircher", "James Nesbitt", "Stephen Hunter", "Dean O'Gorman", "Aidan Turner"]
+   },
+   {
+        "title": "Furious 6",
+       "actors":["Vin Diesel", "Paul Walker", "Dwayne Johnson", "Jordana Brewster", "Michelle Rodriguez", "Tyrese Gibson", "Sung Kang", "Gal Gadot", "Ludacris", "Luke Evans"]
+   },
+   {
+        "title": "Oz the Great and Powerful",
+       "actors":["James Franco", "Mila Kunis", "Rachel Weisz", "Michelle Williams", "Zach Braff", "Bill Cobbs", "Joey King", "Tony Cox", "Stephen R. Hart", "Abigail Spencer"]
+   },
+   {
+        "title": "Star Trek Into Darkness",
+       "actors":["Chris Pine", "Zachary Quinto", "Zoe Saldana", "Karl Urban", "Simon Pegg", "John Cho", "Benedict Cumberbatch", "Anton Yelchin", "Bruce Greenwood", "Peter Weller"]
+   },
+   {
+        "title": "Thor: The Dark World",
+       "actors":["Chris Hemsworth", "Natalie Portman", "Tom Hiddleston", "Anthony Hopkins", "Christopher Eccleston", "Jaimie Alexander", "Zachary Levi", "Ray Stevenson", "Tadanobu Asano", "Idris Elba"]
+   },
+   {
+        "title": "World War Z",
+       "actors":["Brad Pitt", "Mireille Enos", "Daniella Kertesz", "James Badge Dale", "Ludi Boeken", "Matthew Fox", "Fana Mokoena", "David Morse", "Elyes Gabel", "Peter Capaldi"]
+   },
+   {
+        "title": "The Croods",
+       "actors":["Nicolas Cage", "Emma Stone", "Ryan Reynolds", "Catherine Keener", "Cloris Leachman", "Clark Duke", "Chris Sanders", "Randy Thom", "Ryan Reynolds", "Alan Silvestri"]
+   },
+   {
+        "title": "The Heat",
+       "actors":["Sandra Bullock", "Melissa McCarthy", "Demián Bichir", "Marlon Wayans", "Michael Rapaport", "Jane Curtin", "Spoken Reasons", "Dan Bakkedahl", "Taran Killam", "Michael McDonald"]
+   },
+   {
+        "title": "We\u0027re the Millers",
+       "actors":["Jennifer Aniston", "Jason Sudeikis", "Emma Roberts", "Will Poulter", "Ed Helms", "Nick Offerman", "Kathryn Hahn", "Molly C. Quinn", "Tomer Sisley", "Matthew Willig"]
+   },
+   {
+        "title": "American Hustle",
+       "actors":["Christian Bale", "Bradley Cooper", "Amy Adams", "Jeremy Renner", "Jennifer Lawrence", "Louis C.K.", "Jack Huston", "Michael Peña", "Shea Whigham", "Alessandro Nivola"]
+   },
+   {
+        "title": "The Great Gatsby",
+       "actors":["Lisa Adam", "Frank Aldridge", "Amitabh Bachchan", "Steve Bisley", "Richard Carter", "Jason Clarke", "Adelaide Clemens", "Vince Colosimo", "Max Cullen", "Mal Day"]
+   },
+   {
+        "title": "The Conjuring",
+       "actors":["Vera Farmiga", "Patrick Wilson", "Lili Taylor", "Ron Livingston", "Shanley Caswell", "Hayley McFarland", "Joey King", "Mackenzie Foy", "Kyla Deaver", "Shannon Kook"]
+   },
+   {
+        "title": "Identity Thief",
+       "actors":["Jason Bateman", "Melissa McCarthy", "Jon Favreau", "Amanda Peet", "T.I.", "Genesis Rodriguez", "Morris Chestnut", "John Cho", "Robert Patrick", "Eric Stonestreet"]
+   },
+   {
+        "title": "Grown Ups 2",
+       "actors":["Adam Sandler", "Kevin James", "Chris Rock", "David Spade", "Salma Hayek", "Maya Rudolph", "Maria Bello", "Nick Swardson", "Steve Buscemi", "Colin Quinn"]
+   },
+   {
+        "title": "The Wolverine",
+       "actors":["Hugh Jackman", "Tao Okamoto", "Rila Fukushima", "Hiroyuki Sanada", "Svetlana Khodchenkova", "Brian Tee", "Hal Yamanouchi", "Will Yun Lee", "Ken Yamamura", "Famke Janssen"]
+   },
+   {
+        "title": "Anchorman 2: The Legend Continues",
+       "actors":["Will Ferrell", "Steve Carell", "Paul Rudd", "David Koechner", "Christina Applegate", "Dylan Baker", "Meagan Good", "Judah Nelson", "James Marsden", "Greg Kinnear"]
+   },
+   {
+        "title": "Lone Survivor",
+       "actors":["Mark Wahlberg", "Taylor Kitsch", "Emile Hirsch", "Ben Foster", "Yousuf Azami", "Ali Suliman", "Eric Bana", "Alexander Ludwig", "Rich Ting", "Dan Bilzerian"]
+   },
+   {
+        "title": "G.I. Joe: Retaliation",
+       "actors":["Dwayne Johnson", "Jonathan Pryce", "Byung-Hun Lee", "Elodie Yung", "Ray Stevenson", "D.J. Cotrona", "Adrianne Palicki", "Channing Tatum", "Ray Park", "Luke Bracey"]
+   },
+   {
+        "title": "Cloudy with a Chance of Meatballs 2",
+       "actors":["Bill Hader", "Anna Faris", "James Caan", "Will Forte", "Andy Samberg", "Benjamin Bratt", "Neil Patrick Harris", "Terry Crews", "Kristen Schaal", "Cody Cameron"]
+   },
+   {
+        "title": "Now You See Me",
+       "actors":["Jesse Eisenberg", "Mark Ruffalo", "Woody Harrelson", "Isla Fisher", "Dave Franco", "Mélanie Laurent", "Morgan Freeman", "Michael Caine", "Michael Kelly", "Common"]
+   },
+   {
+        "title": "The Wolf of Wall Street",
+       "actors":["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie", "Matthew McConaughey", "Kyle Chandler", "Rob Reiner", "Jon Bernthal", "Jon Favreau", "Jean Dujardin", "Joanna Lumley"]
+   },
+   {
+        "title": "The Butler",
+       "actors":["Forest Whitaker", "David Banner", "Michael Rainey Jr.", "LaJessie Smith", "Mariah Carey", "Alex Pettyfer", "Vanessa Redgrave", "Aml Ameen", "Clarence Williams III", "John P. Fertitta"]
+   },
+   {
+        "title": "The Hangover Part III",
+       "actors":["Bradley Cooper", "Ed Helms", "Zach Galifianakis", "Justin Bartha", "Ken Jeong", "John Goodman", "Melissa McCarthy", "Jeffrey Tambor", "Heather Graham", "Mike Epps"]
+   },
+   {
+        "title": "Epic",
+       "actors":["Blake Anderson", "Aziz Ansari", "Allison Bills", "Jim Conroy", "Todd Cummings", "John DiMaggio", "Troy Evans", "Colin Farrell", "Jason Fricchione", "Judah Friedlander"]
+   },
+   {
+        "title": "Captain Phillips",
+       "actors":["Tom Hanks", "Catherine Keener", "Barkhad Abdi", "Barkhad Abdirahman", "Faysal Ahmed", "Mahat M. Ali", "Michael Chernus", "David Warshofsky", "Corey Johnson", "Chris Mulkey"]
+   },
+   {
+        "title": "Bad Grandpa",
+       "actors":["Johnny Knoxville", "Jackson Nicoll", "Gregorio", "Georgina Cates", "Kamber Hejlik", "Jill Killington", "Madison Davis", "George Faughnan", "Grasie Mercedes-Garcia", "Marilynn Allain"]
+   },
+   {
+        "title": "Pacific Rim",
+       "actors":["Charlie Hunnam", "Diego Klattenhoff", "Idris Elba", "Rinko Kikuchi", "Charlie Day", "Burn Gorman", "Max Martini", "Robert Kazinsky", "Clifton Collins Jr.", "Ron Perlman"]
+   },
+   {
+        "title": "This Is the End",
+       "actors":["James Franco", "Jonah Hill", "Seth Rogen", "Jay Baruchel", "Danny McBride", "Craig Robinson", "Michael Cera", "Emma Watson", "Mindy Kaling", "David Krumholtz"]
+   },
+   {
+        "title": "Olympus Has Fallen",
+       "actors":["Gerard Butler", "Aaron Eckhart", "Finley Jacobsen", "Dylan McDermott", "Rick Yune", "Morgan Freeman", "Angela Bassett", "Melissa Leo", "Radha Mitchell", "Cole Hauser"]
+   },
+   {
+        "title": "42",
+       "actors":["Chadwick Boseman", "Harrison Ford", "Nicole Beharie", "Christopher Meloni", "Ryan Merriman", "Lucas Black", "André Holland", "Alan Tudyk", "Hamish Linklater", "T.R. Knight"]
+   },
+   {
+        "title": "Elysium",
+       "actors":["Matt Damon", "Jodie Foster", "Sharlto Copley", "Alice Braga", "Diego Luna", "Wagner Moura", "William Fichtner", "Brandon Auret", "Josh Blacker", "Emma Tremblay"]
+   },
+   {
+        "title": "Planes",
+       "actors":["Dane Cook", "Stacy Keach", "Brad Garrett", "Teri Hatcher", "Julia Louis-Dreyfus", "Priyanka Chopra", "John Cleese", "Cedric the Entertainer", "Carlos Alazraqui", "Roger Craig Smith"]
+   },
+   {
+        "title": "The Lone Ranger",
+       "actors":["Johnny Depp", "Armie Hammer", "William Fichtner", "Tom Wilkinson", "Ruth Wilson", "Helena Bonham Carter", "James Badge Dale", "Bryant Prince", "Barry Pepper", "Mason Cook"]
+   },
+   {
+        "title": "Oblivion",
+       "actors":["Tom Cruise", "Morgan Freeman", "Olga Kurylenko", "Andrea Riseborough", "Nikolaj Coster-Waldau", "Melissa Leo", "Zoë Bell", "Abigail Lowe", "Isabelle Lowe", "Anthony Gonzalez"]
+   },
+   {
+        "title": "Insidious: Chapter 2",
+       "actors":["Patrick Wilson", "Rose Byrne", "Ty Simpkins", "Lin Shaye", "Barbara Hershey", "Steve Coulter", "Leigh Whannell", "Angus Sampson", "Andrew Astor", "Hank Harris"]
+   },
+   {
+        "title": "Saving Mr. Banks",
+       "actors":["Emma Thompson", "Tom Hanks", "Annie Rose Buckley", "Colin Farrell", "Ruth Wilson", "Paul Giamatti", "Bradley Whitford", "B.J. Novak", "Jason Schwartzman", "Lily Bigham"]
+   },
+   {
+        "title": "Turbo",
+       "actors":["Ryan Reynolds", "Paul Giamatti", "Michael Peña", "Samuel L. Jackson", "Luis Guzmán", "Bill Hader", "Snoop Dogg", "Maya Rudolph", "Ben Schwartz", "Richard Jenkins"]
+   },
+   {
+        "title": "2 Guns",
+       "actors":["Denzel Washington", "Mark Wahlberg", "Paula Patton", "Edward James Olmos", "Bill Paxton", "Robert John Burke", "James Marsden", "Greg Sproles", "Fred Ward", "Patrick Fischler"]
+   },
+   {
+        "title": "White House Down",
+       "actors":["Channing Tatum", "Jamie Foxx", "Maggie Gyllenhaal", "Jason Clarke", "Richard Jenkins", "Joey King", "James Woods", "Nicolas Wright", "Jimmi Simpson", "Michael Murphy"]
+   },
+   {
+        "title": "Mama",
+       "actors":["Jessica Chastain", "Nikolaj Coster-Waldau", "Megan Charpentier", "Isabelle Nélisse", "Daniel Kash", "Javier Botet", "Jane Moffat", "Morgan McGarry", "David Fox", "Dominic Cuzzocrea"]
+   },
+   {
+        "title": "Safe Haven",
+       "actors":["Julianne Hough", "Irene Ziegler", "Jon Kohler", "Tim Parati", "David Lyons", "Josh Duhamel", "Giulia Pagano", "Juan Piedrahita", "Red West", "Noah Lomax"]
+   },
+   {
+        "title": "The Smurfs 2",
+       "actors":["Hank Azaria", "Neil Patrick Harris", "Brendan Gleeson", "Jayma Mays", "Jacob Tremblay", "Nancy O'Dell", "Karim Babin", "Gaston Morrison", "Jocelyn Blanchard", "Erika Rosenbaum"]
+   },
+   {
+        "title": "The Best Man Holiday",
+       "actors":["Monica Calhoun", "Morris Chestnut", "Melissa De Sousa", "Taye Diggs", "Regina Hall", "Terrence Howard", "Sanaa Lathan", "Nia Long", "Harold Perrineau", "Eddie Cibrian"]
+   },
+   {
+        "title": "Percy Jackson: Sea of Monsters",
+       "actors":["Logan Lerman", "Alexandra Daddario", "Douglas Smith", "Leven Rambin", "Brandon T. Jackson", "Jake Abel", "Anthony Head", "Stanley Tucci", "Connor Dunn", "Paloma Kwiatkowski"]
+   },
+   {
+        "title": "A Good Day to Die Hard",
+       "actors":["Bruce Willis", "Jai Courtney", "Sebastian Koch", "Mary Elizabeth Winstead", "Yuliya Snigir", "Radivoje Bukvic", "Cole Hauser", "Amaury Nolasco", "Sergey Kolesnikov", "Roman Luknár"]
+   },
+   {
+        "title": "Warm Bodies",
+       "actors":["Nicholas Hoult", "Teresa Palmer", "Analeigh Tipton", "Rob Corddry", "Dave Franco", "John Malkovich", "Cory Hardrict", "Daniel Rindress-Kay", "Vincent Leclerc", "Clifford LeDuc-Vaillancourt"]
+   },
+   {
+        "title": "Jack the Giant Slayer",
+       "actors":["Nicholas Hoult", "Eleanor Tomlinson", "Ewan McGregor", "Stanley Tucci", "Eddie Marsan", "Ewen Bremner", "Ian McShane", "Christopher Fairbank", "Simon Lowe", "Mingus Johnston"]
+   },
+   {
+        "title": "The Purge",
+       "actors":["Ethan Hawke", "Lena Headey", "Max Burkholder", "Adelaide Kane", "Edwin Hodge", "Rhys Wakefield", "Tony Oller", "Arija Bareikis", "Tom Yi", "Chris Mulkey"]
+   },
+   {
+        "title": "Last Vegas",
+       "actors":["Michael Douglas", "Robert De Niro", "Morgan Freeman", "Kevin Kline", "Mary Steenburgen", "Jerry Ferrara", "Romany Malco", "Roger Bart", "Joanna Gleason", "Michael Ealy"]
+   },
+   {
+        "title": "Ender\u0027s Game",
+       "actors":["Asa Butterfield", "Harrison Ford", "Hailee Steinfeld", "Abigail Breslin", "Ben Kingsley", "Viola Davis", "Aramis Knight", "Suraj Partha", "Moises Arias", "Khylin Rhambo"]
+   },
+   {
+        "title": "Prisoners",
+       "actors":["Hugh Jackman", "Jake Gyllenhaal", "Viola Davis", "Maria Bello", "Terrence Howard", "Melissa Leo", "Paul Dano", "Dylan Minnette", "Zoë Soul", "Erin Gerasimovich"]
+   },
+   {
+        "title": "After Earth",
+       "actors":["Jaden Smith", "Will Smith", "Sophie Okonedo", "Zoë Kravitz", "Glenn Morshower", "Kristofer Hivju", "Sacha Dhawan", "Chris Geere", "Diego Klattenhoff", "David Denman"]
+   },
+   {
+        "title": "The Secret Life of Walter Mitty",
+       "actors":["Ben Stiller", "Kristen Wiig", "Jon Daly", "Kathryn Hahn", "Terence Bernie Hines", "Adam Scott", "Paul Fitzgerald", "Grace Rex", "Alex Anfanger", "Amanda Naughton"]
+   },
+   {
+        "title": "Escape from Planet Earth",
+       "actors":["Brendan Fraser", "Rob Corddry", "Ricky Gervais", "Jonathan Morgan Heit", "Jessica Alba", "Sofía Vergara", "Paul Scheer", "Jason Simpson", "Sarah Jessica Parker", "Doug Abrahams"]
+   },
+   {
+        "title": "12 Years a Slave",
+       "actors":["Chiwetel Ejiofor", "Dwight Henry", "Dickie Gravois", "Bryan Batt", "Ashley Dyke", "Kelsey Scott", "Quvenzhané Wallis", "Cameron Zeigler", "Tony Bentley", "Scoot McNairy"]
+   },
+   {
+        "title": "Free Birds",
+       "actors":["Owen Wilson", "Woody Harrelson", "Amy Poehler", "George Takei", "Colm Meaney", "Keith David", "Dan Fogler", "Jimmy Hayward", "Kaitlyn Maher", "Carlos Alazraqui"]
+   },
+   {
+        "title": "Hansel \u0026 Gretel: Witch Hunters",
+       "actors":["Jeremy Renner", "Gemma Arterton", "Famke Janssen", "Pihla Viitala", "Derek Mears", "Robin Atkin Downes", "Ingrid Bolsø Berdal", "Joanna Kulig", "Thomas Mann", "Peter Stormare"]
+   },
+   {
+        "title": "Evil Dead",
+       "actors":["Jane Levy", "Shiloh Fernandez", "Lou Taylor Pucci", "Jessica Lucas", "Elizabeth Blackmore", "Phoenix Connolly", "Jim McLarty", "Sian Davis", "Stephen Butterworth", "Karl Willetts"]
+   },
+   {
+        "title": "RED 2",
+       "actors":["Bruce Willis", "John Malkovich", "Mary-Louise Parker", "Helen Mirren", "Anthony Hopkins", "Byung-Hun Lee", "Jong Kun Lee", "Catherine Zeta-Jones", "Neal McDonough", "David Thewlis"]
+   },
+   {
+        "title": "A Madea Christmas",
+       "actors":["Tyler Perry", "Anna Maria Horsford", "Tika Sumpter", "Eric Lively", "JR Lemon", "Larry the Cable Guy", "Kathy Najimy", "Chad Michael Murray", "Alicia Witt", "Noah Urrea"]
+   },
+   {
+        "title": "Temptation: Confessions of a Marriage Counselor",
+       "actors":["Jurnee Smollett-Bell", "Lance Gross", "Kim Kardashian West", "Vanessa Williams", "Robbie Jones", "Renée Taylor", "Ella Joyce", "Brandy Norwood", "Jim Adams", "Alvin Aki"]
+   },
+   {
+        "title": "The Call",
+       "actors":["Halle Berry", "Abigail Breslin", "Morris Chestnut", "Michael Eklund", "David Otunga", "Michael Imperioli", "Justina Machado", "José Zúñiga", "Roma Maffia", "Evie Thompson"]
+   },
+   {
+        "title": "Pain \u0026 Gain",
+       "actors":["Mark Wahlberg", "Dwayne Johnson", "Anthony Mackie", "Tony Shalhoub", "Ed Harris", "Rob Corddry", "Bar Paly", "Rebel Wilson", "Ken Jeong", "Michael Rispoli"]
+   },
+   {
+        "title": "Gangster Squad",
+       "actors":["Sean Penn", "Holt McCallany", "Wade Williams", "James Landry Hébert", "Ambyr Childers", "Josh Brolin", "Mick Betancourt", "Mac Brandt", "Brandon Molale", "Michael Papajohn"]
+   },
+   {
+        "title": "The Internship",
+       "actors":["Vince Vaughn", "Owen Wilson", "Rose Byrne", "Aasif Mandvi", "Max Minghella", "Josh Brener", "Dylan O'Brien", "Tiya Sircar", "Tobit Raphael", "Josh Gad"]
+   },
+   {
+        "title": "No se aceptan devoluciones",
+       "actors":["Andrés Vázquez", "Hugo Stiglitz", "Eugenio Derbez", "Leia Freitas", "Ángela Moreno", "Gilda Gentile", "Nancy Taira", "Jessica Lindsey", "Sammy Pérez", "Arcelia Ramírez"]
+   },
+   {
+        "title": "Snitch",
+       "actors":["Dwayne Johnson", "Barry Pepper", "Jon Bernthal", "Susan Sarandon", "Michael Kenneth Williams", "Rafi Gavron", "Melina Kanakaredes", "Nadine Velazquez", "Benjamin Bratt", "Lela Loren"]
+   },
+   {
+        "title": "Riddick",
+       "actors":["Vin Diesel", "Jordi Mollà", "Matt Nable", "Katee Sackhoff", "Dave Bautista", "Bokeem Woodbine", "Raoul Max Trujillo", "Conrad Pla", "Danny Blanco Hall", "Noah Danby"]
+   },
+   {
+        "title": "A Haunted House",
+       "actors":["Marlon Wayans", "Marlene Forte", "Essence Atkins", "David Koechner", "Dave Sheridan", "Nick Swardson", "Alanna Ubach", "Andrew Daly", "J.B. Smoove", "Robin Thede"]
+   },
+   {
+        "title": "47 Ronin",
+       "actors":["Keanu Reeves", "Hiroyuki Sanada", "Ko Shibasaki", "Tadanobu Asano", "Min Tanaka", "Jin Akanishi", "Masayoshi Haneda", "Hiroshi Sogabe", "Takato Yonemoto", "Hiroshi Yamada"]
+   },
+   {
+        "title": "August: Osage County",
+       "actors":["Meryl Streep", "Julia Roberts", "Chris Cooper", "Ewan McGregor", "Margo Martindale", "Sam Shepard", "Dermot Mulroney", "Julianne Nicholson", "Juliette Lewis", "Abigail Breslin"]
+   },
+   {
+        "title": "Philomena",
+       "actors":["Judi Dench", "Steve Coogan", "Sophie Kennedy Clark", "Mare Winningham", "Barbara Jefford", "Ruth McCabe", "Peter Hermann", "Sean Mahon", "Anna Maxwell Martin", "Michelle Fairley"]
+   },
+   {
+        "title": "The Family",
+       "actors":["Robert De Niro", "Michelle Pfeiffer", "Dianna Agron", "John D'Leo", "Tommy Lee Jones", "Jimmy Palumbo", "Domenick Lombardozzi", "Stan Carp", "Vincent Pastore", "Jon Freda"]
+   },
+   {
+        "title": "Walking with Dinosaurs 3D",
+       "actors":["Charlie Rowe", "Karl Urban", "Angourie Rice", "John Leguizamo", "Justin Long", "Skyler Stone", "Tiya Sircar", "Clay Savage", "Jude Tinsely", "Mary Mouser"]
+   },
+   {
+        "title": "Carrie",
+       "actors":["Julianne Moore", "Chloë Grace Moretz", "Gabriella Wilde", "Portia Doubleday", "Zoë Belkin", "Samantha Weinstein", "Karissa Strain", "Katie Strain", "Ansel Elgort", "Demetrius Joyette"]
+   },
+   {
+        "title": "Texas Chainsaw 3D",
+       "actors":["Alexandra Daddario", "Dan Yeager", "Trey Songz", "Scott Eastwood", "Tania Raymonde", "Shaun Sipos", "Keram Malicki-Sánchez", "James MacDonald", "Thom Barry", "Paul Rae"]
+   },
+   {
+        "title": "R.I.P.D.",
+       "actors":["Jeff Bridges", "Ryan Reynolds", "Kevin Bacon", "Mary-Louise Parker", "Stephanie Szostak", "James Hong", "Marisa Miller", "Robert Knepper", "Mike O'Malley", "Devin Ratray"]
+   },
+   {
+        "title": "Blue Jasmine",
+       "actors":["Cate Blanchett", "Joy Carlin", "Richard Conti", "Glen Caspillo", "Alec Baldwin", "Charlie Tahan", "Annie McNamara", "Sally Hawkins", "Daniel Jenks", "Max Rutherford"]
+   },
+   {
+        "title": "Side Effects",
+       "actors":["Rooney Mara", "Carmen Pelaez", "Marin Ireland", "Channing Tatum", "Polly Draper", "Ann Dowd", "Haraldo Alvarez", "Jude Law", "James Martinez", "Vladimir Versailles"]
+   },
+   {
+        "title": "Scary Movie 5",
+       "actors":["Ashley Tisdale", "Simon Rex", "Gracie Whitton", "Ava Kolker", "Dylan Morris", "Ryan Morris", "Lidia Porto", "Darrell Hammond", "Snoop Dogg", "Mac Miller"]
+   },
+   {
+        "title": "The Mortal Instruments: City of Bones",
+       "actors":["Lily Collins", "Jamie Campbell Bower", "Kevin Zegers", "Jemima West", "Robert Sheehan", "Robert Maillet", "Kevin Durand", "Godfrey Gao", "Lena Headey", "Harry Van Gorkum"]
+   },
+   {
+        "title": "Delivery Man",
+       "actors":["Vince Vaughn", "Chris Pratt", "Cobie Smulders", "Andrzej Blumenfeld", "Simon Delaney", "Bobby Moynihan", "Dave Patten", "Adam Chanler-Berat", "Britt Robertson", "Jack Reynor"]
+   },
+   {
+        "title": "Grudge Match",
+       "actors":["Jim Lampley", "Sylvester Stallone", "Robert De Niro", "Rich Little", "Ireland Baldwin", "Anthony Bean", "Mason Mackie", "Kevin Hart", "Barry Primus", "Oscar Gale"]
+   },
+   {
+        "title": "Kick-Ass 2",
+       "actors":["Aaron Taylor-Johnson", "Chloë Grace Moretz", "Morris Chestnut", "Claudia Lee", "Amy Anzel", "Clark Duke", "Augustus Prew", "Mary Kitchen", "Donald Faison", "Matt Steinberg"]
+   },
+   {
+        "title": "Oculus",
+       "actors":["Karen Gillan", "Brenton Thwaites", "Katee Sackhoff", "Rory Cochrane", "Annalise Basso", "Garrett Ryan", "James Lafferty", "Miguel Sandoval", "Kate Siegel", "Scott Graham"]
+   },
+   {
+        "title": "Dallas Buyers Club",
+       "actors":["Matthew McConaughey", "Jennifer Garner", "Jared Leto", "Denis O'Hare", "Steve Zahn", "Michael O'Neill", "Dallas Roberts", "Griffin Dunne", "Kevin Rankin", "Donna Duplantier"]
+   },
+   {
+        "title": "Rush",
+       "actors":["Chris Hemsworth", "Daniel Brühl", "Olivia Wilde", "Alexandra Maria Lara", "Pierfrancesco Favino", "David Calder", "Natalie Dormer", "Stephen Mangan", "Christian McKay", "Alistair Petrie"]
+   },
+   {
+        "title": "The Host",
+       "actors":["Rachel Roberts", "Shyaam Karra", "Brent Wendell Williams", "Jhil McEntyre", "Jalen Coleman", "Saoirse Ronan", "Diane Kruger", "Stephen Rider", "Jaylen Moore", "Stephen Conroy"]
+   },
+   {
+        "title": "The World\u0027s End",
+       "actors":["Thomas Law", "Zachary Bailess", "Jasper Levine", "James Tarpey", "Luke Bromley", "Sophie Evans", "Samantha White", "Rose Reynolds", "Richard Hadfield", "Flora Slorach"]
+   },
+   {
+        "title": "21 \u0026 Over",
+       "actors":["Miles Teller", "Skylar Astin", "Justin Chon", "Sarah Wright", "Jonathan Keltz", "François Chau", "Russell Hodgkinson", "Daniel Booko", "Russell Mercado", "Josie Loren"]
+   },
+   {
+        "title": "Her",
+       "actors":["Joaquin Phoenix", "Lynn Adrianna", "Lisa Renee Pitts", "Gabe Gomez", "Chris Pratt", "Artt Butler", "May Lindstrom", "Rooney Mara", "Bill Hader", "Kristen Wiig"]
+   },
+   {
+        "title": "Escape Plan",
+       "actors":["Sylvester Stallone", "Arnold Schwarzenegger", "Jim Caviezel", "Faran Tahir", "Amy Ryan", "Sam Neill", "Vincent D'Onofrio", "Vinnie Jones", "Matt Gerald", "50 Cent"]
+   },
+   {
+        "title": "Don Jon",
+       "actors":["Joseph Gordon-Levitt", "Scarlett Johansson", "Julianne Moore", "Tony Danza", "Glenne Headly", "Brie Larson", "Rob Brown", "Jeremy Luke", "Paul Ben-Victor", "Italia Ricci"]
+   }
+   ]
+}

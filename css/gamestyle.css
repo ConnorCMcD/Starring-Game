@@ -1,0 +1,113 @@
+/* General Styling */
+
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif);
+
+html { 
+    height:100%;
+}
+body { 
+    height:100%;
+    display: flex;
+    flex-flow: column;
+    background-color: #222222;
+    color: #DDDDDD
+}
+
+.main {
+  background-color: #e9e9e9;
+  width: 100vw;
+  height: 100vh;
+  margin: 0 auto;
+  overflow: auto;
+}
+#container{
+    height: 100vh;
+    width: 100vw;
+}
+.top-team {
+    width: 100vw;
+    height: 10vh;
+    word-break: break-all;
+    background-color: #ff6d6d;
+    display: table;
+}
+.left-team {
+    width: 10vw;
+    max-width: 10vw;
+    word-break: break-all;
+    height: 80vh;
+    background-color: #7986fa;
+    float: left;
+    display: table;
+}
+.right-team {
+    width: 10vw;
+    height: 80vh;
+    word-break: break-all;
+    background-color: #71da6c;
+    float: right;
+    display: table;
+}
+.bottom-team {
+    width: 100vw;
+    height: 10vh;
+    word-break: break-all;
+    background-color: #f8be42;
+    display: table;
+}
+.undo-panel {
+    width: 20vw;
+    height: 80vh;
+    word-break: break-all;
+    background-color: #818181;
+    float: left;
+    display: table;
+}
+.trivia-container {
+    width: 40vw;
+    height: 80vh;
+    background-color: #33515f;
+    float: left;
+    display: table;
+}
+.next-panel {
+    width: 20vw;
+    height: 80vh;
+    word-break: break-all;
+    background-color: #7e7e7e;
+    float: left;
+    display: table;
+}
+.centered-text {
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+}
+.hint-button {
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    word-break: break-all;
+    height: 20%;
+}
+.score-button{
+    vertical-align: middle;
+    display: table-cell;
+    text-align: center;
+    height: 100%;
+    width: 100%;
+}
+button{
+    font-family: 'Work Sans', sans-serif;
+    width: 90%;
+    height: 50%;
+    font-size: 22px;
+    background-color: #227799;
+    color: #fff;
+    border: 0px;
+    padding: 20px;
+    cursor: pointer;
+  }
+  button:hover{
+      background-color: #3388aa;
+  }

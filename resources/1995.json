@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "Toy Story",
+       "actors":["Tom Hanks", "Tim Allen", "Don Rickles", "Jim Varney", "Wallace Shawn", "John Ratzenberger", "Annie Potts", "John Morris", "Erik von Detten", "Laurie Metcalf"]
+   },
+   {
+        "title": "Batman Forever",
+       "actors":["Val Kilmer", "Tommy Lee Jones", "Jim Carrey", "Nicole Kidman", "Chris O'Donnell", "Michael Gough", "Pat Hingle", "Drew Barrymore", "Debi Mazar", "Elizabeth Sanders"]
+   },
+   {
+        "title": "Apollo 13",
+       "actors":["Tom Hanks", "Bill Paxton", "Kevin Bacon", "Gary Sinise", "Ed Harris", "Kathleen Quinlan", "Mary Kate Schellhardt", "Emily Ann Lloyd", "Miko Hughes", "Max Elliott Slade"]
+   },
+   {
+        "title": "Pocahontas",
+       "actors":["Joe Baker", "Christian Bale", "Irene Bedard", "Billy Connolly", "James Apaumut Fall", "Mel Gibson", "Linda Hunt", "John Kassir", "Judy Kuhn", "Danny Mann"]
+   },
+   {
+        "title": "Ace Ventura: When Nature Calls",
+       "actors":["Jim Carrey", "Ian McNeice", "Simon Callow", "Maynard Eziashi", "Bob Gunton", "Sophie Okonedo", "Tommy Davidson", "Adewale Akinnuoye-Agbaje", "Danny Daniels", "Sam Phillips"]
+   },
+   {
+        "title": "GoldenEye",
+       "actors":["Pierce Brosnan", "Sean Bean", "Izabella Scorupco", "Famke Janssen", "Joe Don Baker", "Judi Dench", "Robbie Coltrane", "Tchéky Karyo", "Gottfried John", "Alan Cumming"]
+   },
+   {
+        "title": "Jumanji",
+       "actors":["Robin Williams", "Jonathan Hyde", "Kirsten Dunst", "Bradley Pierce", "Bonnie Hunt", "Bebe Neuwirth", "David Alan Grier", "Patricia Clarkson", "Adam Hann-Byrd", "Laura Bell Bundy"]
+   },
+   {
+        "title": "Casper",
+       "actors":["Chauncey Leopardi", "Spencer Vrooman", "Malachi Pearson", "Cathy Moriarty", "Eric Idle", "Ben Stein", "Don Novello", "Fred Rogers", "Terry Murphy", "Bill Pullman"]
+   },
+   {
+        "title": "Se7en",
+       "actors":["Morgan Freeman", "Andrew Kevin Walker", "Daniel Zacapa", "Brad Pitt", "Gwyneth Paltrow", "John Cassini", "Bob Mack", "Peter Crombie", "Reg E. Cathey", "R. Lee Ermey"]
+   },
+   {
+        "title": "Die Hard: With a Vengeance",
+       "actors":["Bruce Willis", "Jeremy Irons", "Samuel L. Jackson", "Graham Greene", "Colleen Camp", "Larry Bryggman", "Anthony Peck", "Nick Wyman", "Sam Phillips", "Kevin Chamberlin"]
+   },
+   {
+        "title": "Crimson Tide",
+       "actors":["Denzel Washington", "Gene Hackman", "Matt Craven", "George Dzundza", "Viggo Mortensen", "James Gandolfini", "Rocky Carroll", "Jaime Gomez", "Michael Milhoan", "Scott Burkholder"]
+   },
+   {
+        "title": "Waterworld",
+       "actors":["Kevin Costner", "Chaim Jeraffi", "Rick Aviles", "R.D. Call", "Zitto Kazann", "Leonardo Cimino", "Zakes Mokae", "Luke Ka'ili Jr.", "Anthony DeMasters", "Willy Petrovic"]
+   },
+   {
+        "title": "Dangerous Minds",
+       "actors":["Michelle Pfeiffer", "George Dzundza", "Courtney B. Vance", "Robin Bartlett", "Beatrice Winde", "John Neville", "Lorraine Toussaint", "Renoly Santiago", "Wade Dominguez", "Bruklin Harris"]
+   },
+   {
+        "title": "Mr. Holland\u0027s Opus",
+       "actors":["Richard Dreyfuss", "Glenne Headly", "Jay Thomas", "Olympia Dukakis", "William H. Macy", "Alicia Witt", "Terrence Howard", "Damon Whitaker", "Jean Louisa Kelly", "Alexandra Boyd"]
+   },
+   {
+        "title": "While You Were Sleeping",
+       "actors":["Sandra Bullock", "Bill Pullman", "Peter Gallagher", "Peter Boyle", "Jack Warden", "Glynis Johns", "Micole Mercurio", "Jason Bernard", "Michael Rispoli", "Ally Walker"]
+   },
+   {
+        "title": "Congo",
+       "actors":["Laura Linney", "Dylan Walsh", "Ernie Hudson", "Tim Curry", "Grant Heslov", "Joe Don Baker", "Lola Noh", "Mary Ellen Trainor", "Misty Rosas", "Stuart Pankin"]
+   },
+   {
+        "title": "Father of the Bride Part II",
+       "actors":["Steve Martin", "Diane Keaton", "Martin Short", "Kimberly Williams-Paisley", "George Newbern", "Kieran Culkin", "BD Wong", "Peter Michael Goetz", "Kate McGregor-Stewart", "Jane Adams"]
+   },
+   {
+        "title": "Braveheart",
+       "actors":["James Robinson", "Sean Lawlor", "Sandy Nelson", "James Cosmo", "Sean McGinley", "Alan Tall", "Andrew Weir", "Gerda Stevenson", "Ralph Riach", "Mhairi Calvey"]
+   },
+   {
+        "title": "Get Shorty",
+       "actors":["John Travolta", "Gene Hackman", "Rene Russo", "Danny DeVito", "Dennis Farina", "Delroy Lindo", "James Gandolfini", "Jon Gries", "Renee Props", "David Paymer"]
+   },
+   {
+        "title": "The Bridges of Madison County",
+       "actors":["Clint Eastwood", "Meryl Streep", "Annie Corley", "Victor Slezak", "Jim Haynie", "Sarah Zahn", "Christopher Kroon", "Phyllis Lyons", "Debra Monk", "Richard Lage"]
+   },
+   {
+        "title": "Mortal Kombat",
+       "actors":["Christopher Lambert", "Robin Shou", "Linden Ashby", "Cary-Hiroyuki Tagawa", "Bridgette Wilson-Sampras", "Talisa Soto", "Trevor Goddard", "Chris Casamassa", "François Petit", "Keith Cooke"]
+   },
+   {
+        "title": "Grumpier Old Men",
+       "actors":["Walter Matthau", "Jack Lemmon", "Sophia Loren", "Ann-Margret", "Burgess Meredith", "Daryl Hannah", "Kevin Pollak", "Katie Sagona", "Ann Morgan Guilbert", "James Andelin"]
+   },
+   {
+        "title": "Nine Months",
+       "actors":["Hugh Grant", "Julianne Moore", "Tom Arnold", "Joan Cusack", "Jeff Goldblum", "Robin Williams", "Mia Cottet", "Joey Simmrin", "Ashley Johnson", "Alexa PenaVega"]
+   },
+   {
+        "title": "Outbreak",
+       "actors":["Dustin Hoffman", "Rene Russo", "Morgan Freeman", "Kevin Spacey", "Cuba Gooding Jr.", "Donald Sutherland", "Patrick Dempsey", "Zakes Mokae", "Malick Bowens", "Susan Lee Hoffman"]
+   },
+   {
+        "title": "Heat",
+       "actors":["Al Pacino", "Robert De Niro", "Val Kilmer", "Jon Voight", "Tom Sizemore", "Diane Venora", "Amy Brenneman", "Ashley Judd", "Mykelti Williamson", "Wes Studi"]
+   },
+   {
+        "title": "Waiting to Exhale",
+       "actors":["Whitney Houston", "Angela Bassett", "Loretta Devine", "Lela Rochon", "Gregory Hines", "Dennis Haysbert", "Mykelti Williamson", "Michael Beach", "Leon", "Wendell Pierce"]
+   },
+   {
+        "title": "Babe",
+       "actors":["Christine Cavanaugh", "Miriam Margolyes", "Danny Mann", "Hugo Weaving", "Miriam Flynn", "Russi Taylor", "Evelyn Krape", "Michael Edward-Stevens", "Charles Bartlett", "Paul Livingston"]
+   },
+   {
+        "title": "Bad Boys",
+       "actors":["Lisa Boyle", "Michael Taliferro", "Emmanuel Xuereb", "Tchéky Karyo", "Marc Macaulay", "Ralph Gonzalez", "Vic Manni", "Frank John Hughes", "Mike Kirton", "Martin Lawrence"]
+   },
+   {
+        "title": "The American President",
+       "actors":["Michael Douglas", "Annette Bening", "Martin Sheen", "Michael J. Fox", "Anna Deavere Smith", "Samantha Mathis", "Shawna Waldron", "David Paymer", "Anne Haney", "Richard Dreyfuss"]
+   },
+   {
+        "title": "Species",
+       "actors":["Ben Kingsley", "Michael Madsen", "Alfred Molina", "Forest Whitaker", "Marg Helgenberger", "Natasha Henstridge", "Michelle Williams", "Jordan Lund", "Don Fischer", "Scott McKenna"]
+   },
+   {
+        "title": "Twelve Monkeys",
+       "actors":["Joseph Melito", "Bruce Willis", "Jon Seda", "Michael Chance", "Vernon Campbell", "H. Michael Walls", "Bob Adrian", "Simon Jones", "Carol Florence", "Bill Raymond"]
+   },
+   {
+        "title": "Clueless",
+       "actors":["Alicia Silverstone", "Stacey Dash", "Brittany Murphy", "Paul Rudd", "Donald Faison", "Elisa Donovan", "Breckin Meyer", "Jeremy Sisto", "Dan Hedaya", "Aida Linares"]
+   },
+   {
+        "title": "Sabrina",
+       "actors":["Harrison Ford", "Julia Ormond", "Greg Kinnear", "Nancy Marchand", "John Wood", "Richard Crenna", "Angie Dickinson", "Lauren Holly", "Dana Ivey", "Miriam Colon"]
+   },
+   {
+        "title": "Something to Talk About",
+       "actors":["Julia Roberts", "Dennis Quaid", "Robert Duvall", "Gena Rowlands", "Kyra Sedgwick", "Brett Cullen", "Haley Aull", "Muse Watson", "Anne Shropshire", "Ginnie Randall"]
+   },
+   {
+        "title": "The Net",
+       "actors":["Sandra Bullock", "Jeremy Northam", "Dennis Miller", "Diane Baker", "Wendy Gazelle", "Ken Howard", "Ray McKinnon", "Daniel Schorr", "L. Scott Caldwell", "Robert Gossett"]
+   },
+   {
+        "title": "Under Siege 2: Dark Territory",
+       "actors":["Steven Seagal", "Eric Bogosian", "Everett McGill", "Katherine Heigl", "Morris Chestnut", "Peter Greene", "Patrick Kilpatrick", "Scott Sowers", "Afifi Alaouie", "Andy Romano"]
+   },
+   {
+        "title": "A Walk in the Clouds",
+       "actors":["Keanu Reeves", "Aitana Sánchez-Gijón", "Anthony Quinn", "Giancarlo Giannini", "Angélica Aragón", "Evangelina Elizondo", "Freddy Rodríguez", "Debra Messing", "Febronio Covarrubias", "Roberto Huerta"]
+   },
+   {
+        "title": "The Brady Bunch Movie",
+       "actors":["Shelley Long", "Gary Cole", "Christine Taylor", "Christopher Daniel Barnes", "Jennifer Elise Cox", "Paul Sutera", "Olivia Hack", "Jesse Lee Soffer", "Henriette Mantel", "David Graf"]
+   },
+   {
+        "title": "Sense and Sensibility",
+       "actors":["James Fleet", "Tom Wilkinson", "Harriet Walter", "Kate Winslet", "Emma Thompson", "Gemma Jones", "Hugh Grant", "Emilie François", "Elizabeth Spriggs", "Robert Hardy"]
+   },
+   {
+        "title": "Casino",
+       "actors":["Robert De Niro", "Sharon Stone", "Joe Pesci", "James Woods", "Don Rickles", "Alan King", "Kevin Pollak", "L.Q. Jones", "Dick Smothers", "Frank Vincent"]
+   },
+   {
+        "title": "Man of the House",
+       "actors":["Chevy Chase", "Farrah Fawcett", "Jonathan Taylor Thomas", "George Wendt", "David Shiner", "Art LaFleur", "Richard Portnow", "Richard Foronjy", "Peter Appel", "Chief Leonard George"]
+   },
+   {
+        "title": "Dead Man Walking",
+       "actors":["Susan Sarandon", "Sean Penn", "Robert Prosky", "Raymond J. Barry", "R. Lee Ermey", "Celia Weston", "Lois Smith", "Scott Wilson", "Roberta Maxwell", "Margo Martindale"]
+   },
+   {
+        "title": "French Kiss",
+       "actors":["Meg Ryan", "Kevin Kline", "Timothy Hutton", "Jean Reno", "François Cluzet", "Suzan Anbeh", "Renée Humphrey", "Michael Riley", "Laurent Spielvogel", "Victor Garrivier"]
+   },
+   {
+        "title": "Higher Learning",
+       "actors":["Omar Epps", "Kristy Swanson", "Michael Rapaport", "Jennifer Connelly", "Ice Cube", "Jason Wiles", "Tyra Banks", "Cole Hauser", "Laurence Fishburne", "Bradford English"]
+   },
+   {
+        "title": "Mighty Morphin Power Rangers: The Movie",
+       "actors":["Karan Ashley", "Johnny Yong Bosch", "Steve Cardenas", "Jason David Frank", "Amy Jo Johnson", "David Yost", "Paul Schrier", "Jason Narvy", "Paul Freeman", "Gabrielle Fitzpatrick"]
+   },
+   {
+        "title": "First Knight",
+       "actors":["Sean Connery", "Richard Gere", "Julia Ormond", "Ben Cross", "Liam Cunningham", "Christopher Villiers", "Valentine Pelka", "Colin McCormack", "Ralph Ineson", "John Gielgud"]
+   },
+   {
+        "title": "Just Cause",
+       "actors":["Sean Connery", "Laurence Fishburne", "Kate Capshaw", "Blair Underwood", "Ed Harris", "Christopher Murray", "Ruby Dee", "Scarlett Johansson", "Daniel J. Travanti", "Ned Beatty"]
+   },
+   {
+        "title": "To Wong Foo Thanks for Everything, Julie Newmar",
+       "actors":["Wesley Snipes", "Patrick Swayze", "John Leguizamo", "Stockard Channing", "Blythe Danner", "Arliss Howard", "Jason London", "Chris Penn", "Melinda Dillon", "Beth Grant"]
+   },
+   {
+        "title": "The Indian in the Cupboard",
+       "actors":["Hal Scardino", "Litefoot", "Lindsay Crouse", "Richard Jenkins", "Rishi Bhat", "Steve Coogan", "David Keith", "Sakina Jaffrey", "Vincent Kartheiser", "Nestor Serrano"]
+   },
+   {
+        "title": "A Goofy Movie",
+       "actors":["Bill Farmer", "Jason Marsden", "Jim Cummings", "Kellie Martin", "Rob Paulsen", "Wallace Shawn", "Jenna von Oÿ", "Frank Welker", "Kevin Lima", "Florence Stanley"]
+   },
+   {
+        "title": "Money Train",
+       "actors":["Wesley Snipes", "Woody Harrelson", "Jennifer Lopez", "Robert Blake", "Chris Cooper", "Joe Grifasi", "Scott Sowers", "Skipp Sudduth", "Vincent Laresca", "Nelson Vasquez"]
+   },
+   {
+        "title": "Judge Dredd",
+       "actors":["Sylvester Stallone", "Armand Assante", "Rob Schneider", "Jürgen Prochnow", "Max von Sydow", "Diane Lane", "Joanna Miles", "Joan Chen", "Balthazar Getty", "Maurice Roëves"]
+   },
+   {
+        "title": "Forget Paris",
+       "actors":["Billy Crystal", "Debra Winger", "Joe Mantegna", "Cynthia Stevenson", "Richard Masur", "Julie Kavner", "William Hickey", "Robert Costanzo", "John Spencer", "Tom Wright"]
+   },
+   {
+        "title": "Tommy Boy",
+       "actors":["Chris Farley", "David Spade", "Brian Dennehy", "Bo Derek", "Dan Aykroyd", "Julie Warner", "Sean McCann", "Zach Grenier", "James Blendick", "Clinton Turnbull"]
+   },
+   {
+        "title": "Hung fan kui",
+       "actors":["Jackie Chan", "Anita Mui", "Françoise Yip", "Bill Tung", "Marc Akerstream", "Garvin Cross", "Morgan Lam", "Ailen Sit", "Man-Ching Chan", "Fred Andrucci"]
+   },
+   {
+        "title": "Copycat",
+       "actors":["Sigourney Weaver", "Holly Hunter", "Dermot Mulroney", "William McNamara", "Harry Connick Jr.", "J.E. Freeman", "Will Patton", "John Rothman", "Shannon O'Hurley", "Bob Greene"]
+   },
+   {
+        "title": "Leaving Las Vegas",
+       "actors":["Nicolas Cage", "Elisabeth Shue", "Julian Sands", "Richard Lewis", "Steven Weber", "Kim Adams", "Emily Procter", "Stuart Regen", "Valeria Golino", "Graham Beckel"]
+   },
+   {
+        "title": "Rob Roy",
+       "actors":["Liam Neeson", "Jessica Lange", "John Hurt", "Tim Roth", "Eric Stoltz", "Andrew Keir", "Brian Cox", "Brian McCardie", "Gilbert Martin", "Vicki Masson"]
+   },
+   {
+        "title": "Powder",
+       "actors":["Mary Steenburgen", "Sean Patrick Flanery", "Lance Henriksen", "Jeff Goldblum", "Brandon Smith", "Bradford Tatum", "Susan Tyrrell", "Missy Crider", "Ray Wise", "Esteban Powell"]
+   },
+   {
+        "title": "Assassins",
+       "actors":["Sylvester Stallone", "Antonio Banderas", "Julianne Moore", "Anatoli Davydov", "Muse Watson", "Steve Kahan", "Kelly Rowan", "Reed Diamond", "Kai Wulff", "Kerry Skalsky"]
+   },
+   {
+        "title": "Free Willy 2: The Adventure Home",
+       "actors":["Jason James Richter", "Francis Capra", "Mary Kate Schellhardt", "August Schellenberg", "Michael Madsen", "Jayne Atkinson", "Mykelti Williamson", "Elizabeth Peña", "Jon Tenney", "Paul Tuerpe"]
+   },
+   {
+        "title": "Major Payne",
+       "actors":["Damon Wayans", "Michael Ironside", "Bam Bam Bigelow", "Joseph Blaire", "Orlando Brown", "Peyton Chesson-Fohl", "Stephen Coleman", "Mark Conway", "David DeHart", "Joshua Todd Diveley"]
+   },
+   {
+        "title": "Friday",
+       "actors":["Ice Cube", "Chris Tucker", "Nia Long", "Tommy 'Tiny' Lister", "John Witherspoon", "Anna Maria Horsford", "Regina King", "Paula Jai Parker", "Faizon Love", "DJ Pooh"]
+   },
+   {
+        "title": "Now and Then",
+       "actors":["Christina Ricci", "Rosie O'Donnell", "Thora Birch", "Melanie Griffith", "Gaby Hoffmann", "Demi Moore", "Ashleigh Aston Moore", "Rita Wilson", "Devon Sawa", "Walter Sparrow"]
+   },
+   {
+        "title": "Houseguest",
+       "actors":["Sinbad", "Phil Hartman", "Kim Greist", "Kim Murphy", "Chauncey Leopardi", "Talia Seider", "Paul Ben-Victor", "Tony Longo", "Jeffrey Jones", "Stan Shaw"]
+   },
+   {
+        "title": "Desperado",
+       "actors":["Antonio Banderas", "Salma Hayek", "Joaquim de Almeida", "Cheech Marin", "Steve Buscemi", "Carlos Gómez", "Quentin Tarantino", "Tito Larriva", "Angel Aviles", "Danny Trejo"]
+   },
+   {
+        "title": "Billy Madison",
+       "actors":["Adam Sandler", "Darren McGavin", "Bridgette Wilson-Sampras", "Bradley Whitford", "Josh Mostel", "Norm MacDonald", "Mark Beltzman", "Larry Hankin", "Theresa Merritt", "Dina Platias"]
+   },
+   {
+        "title": "Operation Dumbo Drop",
+       "actors":["Danny Glover", "Ray Liotta", "Denis Leary", "Doug E. Doug", "Corin Nemec", "Dinh Thien Le", "Tchéky Karyo", "Hoang Ly", "Vo Trung Anh", "Marshall Bell"]
+   },
+   {
+        "title": "Dolores Claiborne",
+       "actors":["Kathy Bates", "Jennifer Jason Leigh", "Judy Parfitt", "Christopher Plummer", "David Strathairn", "Eric Bogosian", "John C. Reilly", "Ellen Muth", "Bob Gunton", "Roy Cooper"]
+   },
+   {
+        "title": "Dead Presidents",
+       "actors":["Larenz Tate", "Keith David", "Chris Tucker", "Freddy Rodríguez", "Rose Jackson", "N'Bushe Wright", "Alvaleta Guess", "James Pickens Jr.", "Jenifer Lewis", "Clifton Powell"]
+   },
+   {
+        "title": "Virtuosity",
+       "actors":["Denzel Washington", "Kelly Lynch", "Russell Crowe", "Stephen Spinella", "William Forsythe", "Louise Fletcher", "William Fichtner", "Costas Mandylor", "Kevin J. O'Connor", "Kaley Cuoco"]
+   },
+   {
+        "title": "Tom and Huck",
+       "actors":["Jonathan Taylor Thomas", "Brad Renfro", "Eric Schweig", "Charles Rocket", "Amy Wright", "Michael McShane", "Marian Seldes", "Rachael Leigh Cook", "Lanny Flaherty", "Courtland Mead"]
+   },
+   {
+        "title": "How to Make an American Quilt",
+       "actors":["Kaelynn Craddick", "Sara Craddick", "Kate Capshaw", "Adam Baldwin", "Winona Ryder", "Dermot Mulroney", "Ellen Burstyn", "Anne Bancroft", "Maya Angelou", "Alfre Woodard"]
+   },
+   {
+        "title": "Boys on the Side",
+       "actors":["Whoopi Goldberg", "Mary-Louise Parker", "Drew Barrymore", "Matthew McConaughey", "James Remar", "Billy Wirth", "Anita Gillette", "Dennis Boutsikaris", "Estelle Parsons", "Amy Aquino"]
+   },
+   {
+        "title": "Circle of Friends",
+       "actors":["Chris O'Donnell", "Minnie Driver", "Geraldine O'Rawe", "Saffron Burrows", "Alan Cumming", "Colin Firth", "Aidan Gillen", "Mick Lally", "Britta Smith", "John Kavanagh"]
+   },
+   {
+        "title": "The Usual Suspects",
+       "actors":["Stephen Baldwin", "Gabriel Byrne", "Benicio Del Toro", "Kevin Pollak", "Kevin Spacey", "Chazz Palminteri", "Pete Postlethwaite", "Suzy Amis", "Giancarlo Esposito", "Dan Hedaya"]
+   },
+   {
+        "title": "To Die For",
+       "actors":["Nicole Kidman", "Matt Dillon", "Joaquin Phoenix", "Casey Affleck", "Illeana Douglas", "Alison Folland", "Dan Hedaya", "Wayne Knight", "Kurtwood Smith", "Holland Taylor"]
+   },
+   {
+        "title": "Tales from the Crypt: Demon Knight",
+       "actors":["John Kassir", "Billy Zane", "William Sadler", "Jada Pinkett Smith", "Brenda Bakke", "CCH Pounder", "Dick Miller", "Thomas Haden Church", "John Schuck", "Gary Farmer"]
+   },
+   {
+        "title": "Sudden Death",
+       "actors":["Jean-Claude Van Damme", "Powers Boothe", "Raymond J. Barry", "Whittni Wright", "Ross Malinger", "Dorian Harewood", "Kate McNeil", "Michael Gaston", "Audra Lindley", "Brian Delate"]
+   },
+   {
+        "title": "Showgirls",
+       "actors":["Elizabeth Berkley", "Kyle MacLachlan", "Gina Gershon", "Glenn Plummer", "Robert Davi", "Alan Rachins", "Gina Ravera", "Lin Tucci", "Greg Travis", "Al Ruscio"]
+   },
+   {
+        "title": "Vampire in Brooklyn",
+       "actors":["Eddie Murphy", "Angela Bassett", "Allen Payne", "Kadeem Hardison", "John Witherspoon", "Zakes Mokae", "Joanna Cassidy", "Simbi Kali", "Messiri Freeman", "Kelly Cinnante"]
+   },
+   {
+        "title": "It Takes Two",
+       "actors":["Kirstie Alley", "Steve Guttenberg", "Mary-Kate Olsen", "Ashley Olsen", "Philip Bosco", "Jane Sibbett", "Michelle Grisom", "Desmond Robertson", "Tiny Mills", "Shanelle Henry"]
+   },
+   {
+        "title": "Johnny Mnemonic",
+       "actors":["Keanu Reeves", "Dina Meyer", "Ice-T", "Takeshi Kitano", "Denis Akiyama", "Dolph Lundgren", "Henry Rollins", "Barbara Sukowa", "Udo Kier", "Tracy Tweed"]
+   },
+   {
+        "title": "The Quick and the Dead",
+       "actors":["Sharon Stone", "Gene Hackman", "Russell Crowe", "Leonardo DiCaprio", "Tobin Bell", "Roberts Blossom", "Kevin Conway", "Keith David", "Lance Henriksen", "Pat Hingle"]
+   },
+   {
+        "title": "The Big Green",
+       "actors":["Steve Guttenberg", "Olivia d'Abo", "Jay O. Sanders", "John Terry", "Chauncey Leopardi", "Patrick Renna", "Billy L. Sullivan", "Yareli Arizmendi", "Bug Hall", "Jessica Robertson"]
+   },
+   {
+        "title": "Heavy Weights",
+       "actors":["David Goldman", "Joseph Wayne Miller", "Cody Burger", "Allen Covert", "Tim Blake Nelson", "Nancy Ringham", "Seth St. Laurent", "Bobby Fain", "Tom McGowan", "Aaron Schwartz"]
+   },
+   {
+        "title": "Home for the Holidays",
+       "actors":["Holly Hunter", "Robert Downey Jr.", "Anne Bancroft", "Charles Durning", "Dylan McDermott", "Geraldine Chaplin", "Steve Guttenberg", "Cynthia Stevenson", "Claire Danes", "Emily Ann Lloyd"]
+   },
+   {
+        "title": "Murder in the First",
+       "actors":["Christian Slater", "Kevin Bacon", "Gary Oldman", "Embeth Davidtz", "William H. Macy", "Stephen Tobolowsky", "Brad Dourif", "R. Lee Ermey", "Mia Kirshner", "Ben Slack"]
+   },
+   {
+        "title": "Jury Duty",
+       "actors":["Pauly Shore", "Tia Carrere", "Stanley Tucci", "Brian Doyle-Murray", "Abe Vigoda", "Charles Napier", "Richard Edson", "Richard Riehle", "Alex Datcher", "Richard T. Jones"]
+   },
+   {
+        "title": "The Prophecy",
+       "actors":["Christopher Walken", "Elias Koteas", "Virginia Madsen", "Eric Stoltz", "Viggo Mortensen", "Amanda Plummer", "Moriah 'Shining Dove' Snyder", "Adam Goldberg", "Steve Hytner", "J.C. Quinn"]
+   },
+   {
+        "title": "Devil in a Blue Dress",
+       "actors":["Denzel Washington", "Tom Sizemore", "Jennifer Beals", "Don Cheadle", "Maury Chaykin", "Terry Kinney", "Mel Winkler", "Albert Hall", "Lisa Nicole Carson", "Jernard Burks"]
+   },
+   {
+        "title": "Across the Sea of Time",
+       "actors":["Peter Reznick", "John McDonough", "Avi Hoffman", "Victor Steinbach", "Peter Boyden", "Philip Levy", "Nick Muglia", "Abby Lewis", "Matt Malloy", "Luigi Petrozza"]
+   },
+   {
+        "title": "Mad Love",
+       "actors":["Chris O'Donnell", "Drew Barrymore", "Matthew Lillard", "Richard Chaim", "Robert Nadir", "Joan Allen", "Jude Ciccolella", "Amy Sakasitz", "T.J. Lowther", "Kevin Dunn"]
+   },
+   {
+        "title": "Halloween: The Curse of Michael Myers",
+       "actors":["Donald Pleasence", "Paul Rudd", "Marianne Hagan", "Mitchell Ryan", "Kim Darby", "Bradford English", "Keith Bogart", "Mariah O'Brien", "Leo Geter", "J.C. Brandy"]
+   },
+   {
+        "title": "Wings of Courage",
+       "actors":["Craig Sheffer", "Tom Hulce", "Elizabeth McGovern", "Val Kilmer", "Ken Pogue", "Ron Sauvé", "Freddy Andreiuci"]
+   },
+   {
+        "title": "Kiss of Death",
+       "actors":["David Caruso", "Samuel L. Jackson", "Nicolas Cage", "Helen Hunt", "Kathryn Erbe", "Stanley Tucci", "Michael Rapaport", "Ving Rhames", "Philip Baker Hall", "Anthony Heald"]
+   },
+   {
+        "title": "Candyman: Farewell to the Flesh",
+       "actors":["Tony Todd", "Kelly Rowan", "William O'Leary", "Bill Nunn", "Matt Clark", "David Gianopoulos", "Fay Hauser", "Joshua Gibran Mayweather", "Timothy Carhart", "Veronica Cartwright"]
+   },
+   {
+        "title": "Nixon",
+       "actors":["Anthony Hopkins", "Joan Allen", "Powers Boothe", "Ed Harris", "Bob Hoskins", "E.G. Marshall", "David Paymer", "David Hyde Pierce", "Paul Sorvino", "Mary Steenburgen"]
+   },
+   {
+        "title": "A Kid in King Arthur\u0027s Court",
+       "actors":["Thomas Ian Nicholas", "Joss Ackland", "Art Malik", "Paloma Baeza", "Kate Winslet", "Daniel Craig", "David Tysall", "Ron Moody", "Barry Stanton", "Michael Mehlmann"]
+   },
+   {
+        "title": "Lord of Illusions",
+       "actors":["Scott Bakula", "J. Trevor Edmond", "Daniel von Bargen", "Kevin J. O'Connor", "Joseph Latimore", "Sheila Tousey", "Susan Traylor", "Ashley Tesoro", "Michael Angelo Stuno", "Keith Brunsmann"]
+   }
+   ]
+}

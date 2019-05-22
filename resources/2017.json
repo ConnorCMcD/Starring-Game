@@ -1,0 +1,404 @@
+{
+   "movies":[
+   {
+        "title": "Star Wars: Episode VIII - The Last Jedi",
+       "actors":["Mark Hamill", "Carrie Fisher", "Adam Driver", "Daisy Ridley", "John Boyega", "Oscar Isaac", "Andy Serkis", "Lupita Nyong'o", "Domhnall Gleeson", "Anthony Daniels"]
+   },
+   {
+        "title": "Beauty and the Beast",
+       "actors":["Emma Watson", "Dan Stevens", "Luke Evans", "Josh Gad", "Kevin Kline", "Hattie Morahan", "Haydn Gwynne", "Gerard Horan", "Ray Fearon", "Ewan McGregor"]
+   },
+   {
+        "title": "Wonder Woman",
+       "actors":["Gal Gadot", "Chris Pine", "Connie Nielsen", "Robin Wright", "Danny Huston", "David Thewlis", "Saïd Taghmaoui", "Ewen Bremner", "Eugene Brave Rock", "Lucy Davis"]
+   },
+   {
+        "title": "Jumanji: Welcome to the Jungle",
+       "actors":["Dwayne Johnson", "Kevin Hart", "Jack Black", "Karen Gillan", "Rhys Darby", "Bobby Cannavale", "Nick Jonas", "Alex Wolff", "Ser'Darius Blain", "Madison Iseman"]
+   },
+   {
+        "title": "Guardians of the Galaxy Vol. 2",
+       "actors":["Chris Pratt", "Zoe Saldana", "Dave Bautista", "Vin Diesel", "Bradley Cooper", "Michael Rooker", "Karen Gillan", "Pom Klementieff", "Sylvester Stallone", "Kurt Russell"]
+   },
+   {
+        "title": "Spider-Man: Homecoming",
+       "actors":["Tom Holland", "Michael Keaton", "Robert Downey Jr.", "Marisa Tomei", "Jon Favreau", "Gwyneth Paltrow", "Zendaya", "Donald Glover", "Jacob Batalon", "Laura Harrier"]
+   },
+   {
+        "title": "It",
+       "actors":["Jaeden Martell", "Jeremy Ray Taylor", "Sophia Lillis", "Finn Wolfhard", "Chosen Jacobs", "Jack Dylan Grazer", "Wyatt Oleff", "Bill Skarsgård", "Nicholas Hamilton", "Jake Sim"]
+   },
+   {
+        "title": "Thor: Ragnarok",
+       "actors":["Chris Hemsworth", "Tom Hiddleston", "Cate Blanchett", "Idris Elba", "Jeff Goldblum", "Tessa Thompson", "Karl Urban", "Mark Ruffalo", "Anthony Hopkins", "Benedict Cumberbatch"]
+   },
+   {
+        "title": "Despicable Me 3",
+       "actors":["Steve Carell", "Kristen Wiig", "Trey Parker", "Miranda Cosgrove", "Dana Gaier", "Nev Scharrel", "Pierre Coffin", "Steve Coogan", "Julie Andrews", "Jenny Slate"]
+   },
+   {
+        "title": "Justice League",
+       "actors":["Ben Affleck", "Henry Cavill", "Amy Adams", "Gal Gadot", "Ezra Miller", "Jason Momoa", "Ray Fisher", "Jeremy Irons", "Diane Lane", "Connie Nielsen"]
+   },
+   {
+        "title": "Logan",
+       "actors":["Hugh Jackman", "Patrick Stewart", "Dafne Keen", "Boyd Holbrook", "Stephen Merchant", "Elizabeth Rodriguez", "Richard E. Grant", "Eriq La Salle", "Elise Neal", "Quincy Fouse"]
+   },
+   {
+        "title": "The Fate of the Furious",
+       "actors":["Vin Diesel", "Jason Statham", "Dwayne Johnson", "Michelle Rodriguez", "Tyrese Gibson", "Ludacris", "Charlize Theron", "Kurt Russell", "Nathalie Emmanuel", "Luke Evans"]
+   },
+   {
+        "title": "Coco",
+       "actors":["Anthony Gonzalez", "Gael García Bernal", "Benjamin Bratt", "Alanna Ubach", "Renee Victor", "Jaime Camil", "Alfonso Arau", "Herbert Siguenza", "Gabriel Iglesias", "Lombardo Boyar"]
+   },
+   {
+        "title": "Dunkirk",
+       "actors":["Fionn Whitehead", "Damien Bonnard", "Aneurin Barnard", "Lee Armstrong", "James Bloor", "Barry Keoghan", "Mark Rylance", "Tom Glynn-Carney", "Tom Hardy", "Jack Lowden"]
+   },
+   {
+        "title": "Get Out",
+       "actors":["Daniel Kaluuya", "Allison Williams", "Catherine Keener", "Bradley Whitford", "Caleb Landry Jones", "Marcus Henderson", "Betty Gabriel", "LaKeith Stanfield", "Stephen Root", "Lil Rel Howery"]
+   },
+   {
+        "title": "The Lego Batman Movie",
+       "actors":["Will Arnett", "Michael Cera", "Rosario Dawson", "Ralph Fiennes", "Siri", "Zach Galifianakis", "Jenny Slate", "Jason Mantzoukas", "Conan O'Brien", "Doug Benson"]
+   },
+   {
+        "title": "The Boss Baby",
+       "actors":["Alec Baldwin", "Steve Buscemi", "Jimmy Kimmel", "Lisa Kudrow", "Tobey Maguire", "Miles Bakshi", "James McGrath", "Conrad Vernon", "ViviAnn Yee", "Eric Bell Jr."]
+   },
+   {
+        "title": "The Greatest Showman",
+       "actors":["Hugh Jackman", "Michelle Williams", "Zac Efron", "Zendaya", "Rebecca Ferguson", "Austyn Johnson", "Cameron Seely", "Keala Settle", "Sam Humphrey", "Yahya Abdul-Mateen II"]
+   },
+   {
+        "title": "Pirates of the Caribbean: Dead Men Tell No Tales",
+       "actors":["Johnny Depp", "Javier Bardem", "Geoffrey Rush", "Brenton Thwaites", "Kaya Scodelario", "Kevin McNally", "Golshifteh Farahani", "David Wenham", "Stephen Graham", "Angus Barnett"]
+   },
+   {
+        "title": "Kong: Skull Island",
+       "actors":["Tom Hiddleston", "Samuel L. Jackson", "Brie Larson", "John C. Reilly", "John Goodman", "Corey Hawkins", "John Ortiz", "Tian Jing", "Toby Kebbell", "Jason Mitchell"]
+   },
+   {
+        "title": "Cars 3",
+       "actors":["Owen Wilson", "Cristela Alonzo", "Chris Cooper", "Nathan Fillion", "Larry the Cable Guy", "Armie Hammer", "Ray Magliozzi", "Tony Shalhoub", "Bonnie Hunt", "Lea DeLaria"]
+   },
+   {
+        "title": "War for the Planet of the Apes",
+       "actors":["Andy Serkis", "Woody Harrelson", "Steve Zahn", "Karin Konoval", "Amiah Miller", "Terry Notary", "Ty Olsson", "Michael Adamthwaite", "Toby Kebbell", "Gabriel Chavarria"]
+   },
+   {
+        "title": "Wonder",
+       "actors":["Jacob Tremblay", "Owen Wilson", "Izabela Vidovic", "Julia Roberts", "Mark Dozlaw", "Rukiya Bernard", "Jennifer March", "Mandy Patinkin", "Noah Jupe", "Bryce Gheisar"]
+   },
+   {
+        "title": "Transformers: The Last Knight",
+       "actors":["Mark Wahlberg", "Anthony Hopkins", "Josh Duhamel", "Laura Haddock", "Santiago Cabrera", "Isabela Moner", "Jerrod Carmichael", "Stanley Tucci", "Liam Garrigan", "Martin McCreadie"]
+   },
+   {
+        "title": "Girls Trip",
+       "actors":["Regina Hall", "Queen Latifah", "Jada Pinkett Smith", "Tiffany Haddish", "Larenz Tate", "Mike Colter", "Kate Walsh", "Kofi Siriboe", "Lara Grice", "Deborah Ayorinde"]
+   },
+   {
+        "title": "Fifty Shades Darker",
+       "actors":["Dakota Johnson", "Jamie Dornan", "Eric Johnson", "Eloise Mumford", "Bella Heathcote", "Rita Ora", "Luke Grimes", "Victor Rasuk", "Max Martini", "Bruce Altman"]
+   },
+   {
+        "title": "The Upside",
+       "actors":["Kevin Hart", "Bryan Cranston", "Nicole Kidman", "Aja Naomi King", "Jahi Di'Allo Winston", "Genevieve Angelson", "Golshifteh Farahani", "Tate Donovan", "Julianna Margulies", "Suzanne Savoy"]
+   },
+   {
+        "title": "Baby Driver",
+       "actors":["Ansel Elgort", "Jon Bernthal", "Jon Hamm", "Eiza González", "Micah Howard", "Lily James", "Morgan Brown", "Kevin Spacey", "Morse Diggs", "CJ Jones"]
+   },
+   {
+        "title": "Pitch Perfect 3",
+       "actors":["Anna Kendrick", "Rebel Wilson", "Brittany Snow", "Anna Camp", "Hailee Steinfeld", "Ester Dean", "Hana Mae Lee", "Kelley Jakle", "Shelley Regner", "Chrissie Fit"]
+   },
+   {
+        "title": "Daddy\u0027s Home Two",
+       "actors":["Will Ferrell", "Mark Wahlberg", "Mel Gibson", "John Lithgow", "Linda Cardellini", "Alessandra Ambrosio", "Owen Vaccaro", "Scarlett Estevez", "Didi Costine", "Connor Wise"]
+   },
+   {
+        "title": "Murder on the Orient Express",
+       "actors":["Paapa Essiedu", "Yassine Zeroual", "Asan N'Jie", "Michael Rouse", "Kenneth Branagh", "Elliot Levey", "David Annen", "Joseph Long", "Andy Apollo", "Hadley Fraser"]
+   },
+   {
+        "title": "Annabelle: Creation",
+       "actors":["Anthony LaPaglia", "Samara Lee", "Miranda Otto", "Brad Greenquist", "Lulu Wilson", "Talitha Eliana Bateman", "Stephanie Sigman", "Mark Bramhall", "Grace Fulton", "Philippa Coulthard"]
+   },
+   {
+        "title": "Kingsman: The Golden Circle",
+       "actors":["Taron Egerton", "Edward Holcroft", "Gordon Alexander", "Mark Strong", "Hanna Alström", "Calvin Demba", "Thomas Turgoose", "Tobi Bakare", "Julianne Moore", "Keith Allen"]
+   },
+   {
+        "title": "Blade Runner 2049",
+       "actors":["Ryan Gosling", "Dave Bautista", "Robin Wright", "Mark Arnold", "Vilma Szécsi", "Ana de Armas", "Wood Harris", "David Dastmalchian", "Tómas Lemarquis", "Sylvia Hoeks"]
+   },
+   {
+        "title": "John Wick: Chapter 2",
+       "actors":["Keanu Reeves", "Riccardo Scamarcio", "Ian McShane", "Ruby Rose", "Common", "Claudia Gerini", "Lance Reddick", "Laurence Fishburne", "Tobias Segal", "John Leguizamo"]
+   },
+   {
+        "title": "The Emoji Movie",
+       "actors":["T.J. Miller", "James Corden", "Anna Faris", "Maya Rudolph", "Steven Wright", "Jennifer Coolidge", "Patrick Stewart", "Christina Aguilera", "Sofía Vergara", "Rachael Ray"]
+   },
+   {
+        "title": "Power Rangers",
+       "actors":["Dacre Montgomery", "Naomi Scott", "RJ Cyler", "Ludi Lin", "Becky G", "Elizabeth Banks", "Bryan Cranston", "Bill Hader", "Matt Shively", "Cody Kearsley"]
+   },
+   {
+        "title": "Ferdinand",
+       "actors":["Jack Gore", "Jet Jurgensmeyer", "Nile Diaz", "Colin H. Murphy", "Carlos Saldanha", "Jeremy Sisto", "Bobby Cannavale", "Raúl Esparza", "Luis Carlos de La Lombana", "Juanes"]
+   },
+   {
+        "title": "The Post",
+       "actors":["Meryl Streep", "Tom Hanks", "Sarah Paulson", "Bob Odenkirk", "Tracy Letts", "Bradley Whitford", "Bruce Greenwood", "Matthew Rhys", "Alison Brie", "Carrie Coon"]
+   },
+   {
+        "title": "The Mummy",
+       "actors":["Tom Cruise", "Russell Crowe", "Annabelle Wallis", "Sofia Boutella", "Jake Johnson", "Courtney B. Vance", "Marwan Kenzari", "Simon Atherton", "Stephen Thompson", "James Arama"]
+   },
+   {
+        "title": "The Hitman\u0027s Bodyguard",
+       "actors":["Elodie Yung", "Ryan Reynolds", "Tsuwayuki Saotome", "Roy Hill", "Richard E. Grant", "Gary Oldman", "Rod Hallett", "Yuri Kolokolnikov", "Nadia Konakchieva", "Valentin Stojanov"]
+   },
+   {
+        "title": "Alien: Covenant",
+       "actors":["Michael Fassbender", "Katherine Waterston", "Billy Crudup", "Danny McBride", "Demián Bichir", "Carmen Ejogo", "Jussie Smollett", "Callie Hernandez", "Amy Seimetz", "Nathaniel Dean"]
+   },
+   {
+        "title": "Captain Underpants: The First Epic Movie",
+       "actors":["Kevin Hart", "Ed Helms", "Nick Kroll", "Thomas Middleditch", "Jordan Peele", "Kristen Schaal", "DeeDee Rescher", "Brian Posehn", "David Soren", "Mel Rodriguez"]
+   },
+   {
+        "title": "A Bad Moms Christmas",
+       "actors":["Mila Kunis", "Kristen Bell", "Kathryn Hahn", "Christine Baranski", "Susan Sarandon", "Cheryl Hines", "Jay Hernandez", "Justin Hartley", "Peter Gallagher", "Oona Laurence"]
+   },
+   {
+        "title": "A Dog\u0027s Purpose",
+       "actors":["Josh Gad", "Dennis Quaid", "Peggy Lipton", "Bryce Gheisar", "K.J. Apa", "Juliet Rylance", "Luke Kirby", "Gabrielle Rose", "Michael Bofshever", "Britt Robertson"]
+   },
+   {
+        "title": "The Shape of Water",
+       "actors":["Sally Hawkins", "Michael Shannon", "Richard Jenkins", "Octavia Spencer", "Michael Stuhlbarg", "Doug Jones", "David Hewlett", "Nick Searcy", "Stewart Arnott", "Nigel Bennett"]
+   },
+   {
+        "title": "The Lego Ninjago Movie",
+       "actors":["Jackie Chan", "Dave Franco", "Fred Armisen", "Kumail Nanjiani", "Michael Peña", "Abbi Jacobson", "Zach Woods", "David Burrows", "Alex Kauffman", "Justin Theroux"]
+   },
+   {
+        "title": "Baywatch",
+       "actors":["Dwayne Johnson", "Zac Efron", "Priyanka Chopra", "Alexandra Daddario", "Kelly Rohrbach", "Ilfenesh Hadera", "Jon Bass", "Yahya Abdul-Mateen II", "Hannibal Buress", "Rob Huebel"]
+   },
+   {
+        "title": "The Shack",
+       "actors":["Sam Worthington", "Octavia Spencer", "Tim McGraw", "Radha Mitchell", "Megan Charpentier", "Gage Munroe", "Amélie Eve", "Avraham Aviv Alush", "Sumire", "Alice Braga"]
+   },
+   {
+        "title": "Darkest Hour",
+       "actors":["Gary Oldman", "Kristin Scott Thomas", "Ben Mendelsohn", "Lily James", "Ronald Pickup", "Stephen Dillane", "Nicholas Jones", "Samuel West", "David Schofield", "Richard Lumsden"]
+   },
+   {
+        "title": "Happy Death Day",
+       "actors":["Jessica Rothe", "Israel Broussard", "Ruby Modine", "Charles Aitken", "Laura Clifton", "Jason Bayle", "Rob Mello", "Rachel Matthews", "Ramsey Anderson", "Brady Lewis"]
+   },
+   {
+        "title": "Three Billboards Outside Ebbing, Missouri",
+       "actors":["Frances McDormand", "Caleb Landry Jones", "Kerry Condon", "Sam Rockwell", "Alejandro Barrios", "Jason Ledford", "Darrell Britt-Gibson", "Woody Harrelson", "Abbie Cornish", "Riya May Atwood"]
+   },
+   {
+        "title": "Atomic Blonde",
+       "actors":["Charlize Theron", "James McAvoy", "Eddie Marsan", "John Goodman", "Toby Jones", "James Faulkner", "Roland Møller", "Sofia Boutella", "Bill Skarsgård", "Sam Hargrave"]
+   },
+   {
+        "title": "American Made",
+       "actors":["Tom Cruise", "Domhnall Gleeson", "Sarah Wright", "Jesse Plemons", "Caleb Landry Jones", "Lola Kirke", "Jayma Mays", "Alejandro Edda", "Benito Martinez", "E. Roger Mitchell"]
+   },
+   {
+        "title": "The Dark Tower",
+       "actors":["Matthew McConaughey", "Idris Elba", "Tom Taylor", "Dennis Haysbert", "Ben Gavin", "Claudia Kim", "Jackie Earle Haley", "Fran Kranz", "Abbey Lee", "Katheryn Winnick"]
+   },
+   {
+        "title": "Lady Bird",
+       "actors":["Saoirse Ronan", "Laurie Metcalf", "Tracy Letts", "Lucas Hedges", "Timothée Chalamet", "Beanie Feldstein", "Lois Smith", "Stephen McKinley Henderson", "Odeya Rush", "Jordan Rodrigues"]
+   },
+   {
+        "title": "Tyler Perry\u0027s Boo 2! A Madea Halloween",
+       "actors":["Tyler Perry", "Cassi Davis", "Patrice Lovely", "Yousef Erakat", "Diamond White", "Lexy Panterra", "Andre Hall", "Brock O'Hurn", "Tito Ortiz", "Taja V. Simpson"]
+   },
+   {
+        "title": "Snatched",
+       "actors":["Amy Schumer", "Kim Caramele", "Raven Goodwin", "Katie Dippold", "Randall Park", "Goldie Hawn", "Ike Barinholtz", "Luis R. Espinoza", "Luis F. Ramirez", "Daniel Bess"]
+   },
+   {
+        "title": "Smurfs: The Lost Village",
+       "actors":["Demi Lovato", "Rainn Wilson", "Joe Manganiello", "Jack McBrayer", "Danny Pudi", "Mandy Patinkin", "Dee Bradley Baker", "Frank Welker", "Michelle Rodriguez", "Ellie Kemper"]
+   },
+   {
+        "title": "Going in Style",
+       "actors":["Michael Caine", "Alan Arkin", "Ann-Margret", "Matt Dillon", "Joey King", "Christopher Lloyd", "Maria Dizzia", "Morgan Freeman", "John Ortiz", "Siobhan Fallon Hogan"]
+   },
+   {
+        "title": "All Eyez on Me",
+       "actors":["Demetrius Shipp Jr.", "Danai Gurira", "Kat Graham", "Hill Harper", "Annie Ilonzeh", "Lauren Cohan", "Keith Robinson", "Jamal Woolard", "Dominic L. Santana", "Cory Hardrict"]
+   },
+   {
+        "title": "xXx: Return of Xander Cage",
+       "actors":["Vin Diesel", "Donnie Yen", "Deepika Padukone", "Kris Wu", "Ruby Rose", "Tony Jaa", "Nina Dobrev", "Rory McCann", "Toni Collette", "Samuel L. Jackson"]
+   },
+   {
+        "title": "47 Meters Down",
+       "actors":["Mandy Moore", "Claire Holt", "Chris Johnson", "Yani Gellman", "Santiago Segura", "Matthew Modine", "Richard Hawley"]
+   },
+   {
+        "title": "The Big Sick",
+       "actors":["Kumail Nanjiani", "Zoe Kazan", "Holly Hunter", "Ray Romano", "Anupam Kher", "Zenobia Shroff", "Adeel Akhtar", "Bo Burnham", "Aidy Bryant", "Kurt Braunohler"]
+   },
+   {
+        "title": "Valerian and the City of a Thousand Planets",
+       "actors":["Dane DeHaan", "Cara Delevingne", "Clive Owen", "Rihanna", "Ethan Hawke", "Herbie Hancock", "Kris Wu", "Sam Spruell", "Alain Chabat", "Rutger Hauer"]
+   },
+   {
+        "title": "The Star",
+       "actors":["Steven Yeun", "Keegan-Michael Key", "Aidy Bryant", "Gina Rodriguez", "Zachary Levi", "Christopher Plummer", "Ving Rhames", "Gabriel Iglesias", "Kelly Clarkson", "Anthony Anderson"]
+   },
+   {
+        "title": "Ghost in the Shell",
+       "actors":["Scarlett Johansson", "Pilou Asbæk", "Takeshi Kitano", "Juliette Binoche", "Michael Pitt", "Chin Han", "Danusia Samal", "Lasarus Ratuere", "Yutaka Izumihara", "Tawanda Manyimo"]
+   },
+   {
+        "title": "Paddington 2",
+       "actors":["Michael Gambon", "Imelda Staunton", "Ben Whishaw", "Madeleine Harris", "Samuel Joslin", "Sally Hawkins", "Hugh Bonneville", "Julie Walters", "Marie-France Alvarez", "Sanjeev Bhaskar"]
+   },
+   {
+        "title": "King Arthur: Legend of the Sword",
+       "actors":["Charlie Hunnam", "Astrid Bergès-Frisbey", "Jude Law", "Djimon Hounsou", "Eric Bana", "Aidan Gillen", "Freddie Fox", "Craig McGinlay", "Tom Wu", "Kingsley Ben-Adir"]
+   },
+   {
+        "title": "Jigsaw",
+       "actors":["Matt Passmore", "Tobin Bell", "Callum Keith Rennie", "Hannah Emily Anderson", "Clé Bennett", "Laura Vandervoort", "Paul Braunstein", "Mandela Van Peebles", "Brittany Allen", "Josiah Black"]
+   },
+   {
+        "title": "American Assassin",
+       "actors":["Dylan O'Brien", "Charlotte Vega", "Christopher Bomford", "Chris Webster", "Shahid Ahmed", "Buster Reeves", "Nick Cavaliere", "Simon Connolly", "Yousef 'Joe' Sweid", "Joost Janssen"]
+   },
+   {
+        "title": "The Foreigner",
+       "actors":["Katie Leung", "Jackie Chan", "Rufus Jones", "Mark Tandy", "John Cronin", "Caolan Byrne", "Donna Bernard", "Aaron Monaghan", "Niall McNamee", "Pierce Brosnan"]
+   },
+   {
+        "title": "Everything, Everything",
+       "actors":["Amandla Stenberg", "Nick Robinson", "Anika Noni Rose", "Ana de la Reguera", "Taylor Hickson", "Danube Hermosillo", "Dan Payne", "Fiona Loewi", "Sage Brocklebank", "Robert Lawrenson"]
+   },
+   {
+        "title": "Wind River",
+       "actors":["Kelsey Asbille", "Jeremy Renner", "Julia Jones", "Teo Briones", "Apesanahkwat", "Graham Greene", "Elizabeth Olsen", "Tantoo Cardinal", "Eric Lange", "Gil Birmingham"]
+   },
+   {
+        "title": "Geostorm",
+       "actors":["Gerard Butler", "Jim Sturgess", "Abbie Cornish", "Alexandra Maria Lara", "Daniel Wu", "Eugenio Derbez", "Amr Waked", "Adepero Oduye", "Andy Garcia", "Ed Harris"]
+   },
+   {
+        "title": "Fist Fight",
+       "actors":["Charlie Day", "Ice Cube", "Tracy Morgan", "Jillian Bell", "Dean Norris", "Christina Hendricks", "Kumail Nanjiani", "Dennis Haysbert", "JoAnna Garcia Swisher", "Alexa Nisenson"]
+   },
+   {
+        "title": "How to Be a Latin Lover",
+       "actors":["Eugenio Derbez", "Salma Hayek", "Raphael Alejandro", "Rob Lowe", "Kristen Bell", "Mckenna Grace", "Raquel Welch", "Linda Lavin", "Renée Taylor", "Rob Corddry"]
+   },
+   {
+        "title": "Kidnap",
+       "actors":["Halle Berry", "Sage Correa", "Chris McGinn", "Lew Temple", "Jason George", "Christopher Berry", "Arron Shiver", "Kurtis Bedford", "Carmella Riley", "Brice Fisher"]
+   },
+   {
+        "title": "The Mountain Between Us",
+       "actors":["Idris Elba", "Kate Winslet", "Beau Bridges", "Dermot Mulroney", "Linda Sorensen", "Vincent Gale", "Marci T. House", "Dania Nassar", "Lee Majdoub", "Andres Joseph"]
+   },
+   {
+        "title": "Life",
+       "actors":["Hiroyuki Sanada", "Ryan Reynolds", "Rebecca Ferguson", "Jake Gyllenhaal", "Olga Dykhovichnaya", "Ariyon Bakare", "Jesus Del Orden", "Allen McLean", "Leila Grace", "Mari Gvelesiani"]
+   },
+   {
+        "title": "I, Tonya",
+       "actors":["Margot Robbie", "Sebastian Stan", "Allison Janney", "Julianne Nicholson", "Paul Walter Hauser", "Bobby Cannavale", "Bojana Novakovic", "Caitlin Carver", "Maizie Smith", "Mckenna Grace"]
+   },
+   {
+        "title": "Hostiles",
+       "actors":["Scott Shepherd", "Rosamund Pike", "Ava Cooper", "Stella Cooper", "David Midthunder", "Gray Wolf Herrera", "Christian Bale", "Rory Cochrane", "Jonathan Majors", "John Benjamin Hickey"]
+   },
+   {
+        "title": "Molly\u0027s Game",
+       "actors":["Jessica Chastain", "Idris Elba", "Kevin Costner", "Michael Cera", "Jeremy Strong", "Chris O'Dowd", "J.C. MacKenzie", "Brian d'Arcy James", "Bill Camp", "Graham Greene"]
+   },
+   {
+        "title": "The Nut Job 2: Nutty by Nature",
+       "actors":["Will Arnett", "Maya Rudolph", "Bobby Cannavale", "Bobby Moynihan", "Isabela Moner", "Peter Stormare", "Gabriel Iglesias", "Jeff Dunham", "Sebastian Maniscalco", "Kari Wahlgren"]
+   },
+   {
+        "title": "Logan Lucky",
+       "actors":["Farrah Mackenzie", "Channing Tatum", "Jim O'Heir", "Riley Keough", "Rebecca Koon", "Katie Holmes", "Boden Johnston", "Sutton Johnston", "David Denman", "Charles Halford"]
+   },
+   {
+        "title": "Rings",
+       "actors":["Matilda Anna Ingrid Lutz", "Alex Roe", "Johnny Galecki", "Vincent D'Onofrio", "Aimee Teegarden", "Bonnie Morgan", "Chuck David Willis", "Patrick R. Walker", "Zach Roerig", "Laura Wiggins"]
+   },
+   {
+        "title": "Home Again",
+       "actors":["Reese Witherspoon", "Michael Sheen", "Candice Bergen", "Pico Alexander", "Jon Rudnitsky", "Nat Wolff", "Lola Flanery", "Eden Grace Redfield", "Lake Bell", "Dolly Wells"]
+   },
+   {
+        "title": "The House",
+       "actors":["Will Ferrell", "Amy Poehler", "Jason Mantzoukas", "Ryan Simpkins", "Nick Kroll", "Allison Tolman", "Rob Huebel", "Christina Offley", "Jessie Ennis", "Rory Scovel"]
+   },
+   {
+        "title": "All the Money in the World",
+       "actors":["Michelle Williams", "Christopher Plummer", "Mark Wahlberg", "Romain Duris", "Timothy Hutton", "Charlie Plummer", "Charlie Shotwell", "Andrew Buchan", "Marco Leonardi", "Giuseppe Bonifati"]
+   },
+   {
+        "title": "Gifted",
+       "actors":["Chris Evans", "Mckenna Grace", "Lindsay Duncan", "Octavia Spencer", "Jenny Slate", "Michael Kendall Kaplan", "John M. Jackson", "Glenn Plummer", "John Finn", "Elizabeth Marvel"]
+   },
+   {
+        "title": "Downsizing",
+       "actors":["Matt Damon", "Christoph Waltz", "Hong Chau", "Kristen Wiig", "Rolf Lassgård", "Ingjerd Egeberg", "Udo Kier", "Søren Pilmark", "Jason Sudeikis", "Maribeth Monroe"]
+   },
+   {
+        "title": "The Bye Bye Man",
+       "actors":["Douglas Smith", "Lucien Laviscount", "Cressida Bonas", "Doug Jones", "Michael Trucco", "Jenna Kanell", "Erica Tremblay", "Marisa Echeverria", "Cleo King", "Faye Dunaway"]
+   },
+   {
+        "title": "Victoria \u0026 Abdul",
+       "actors":["Judi Dench", "Ali Fazal", "Tim Pigott-Smith", "Eddie Izzard", "Adeel Akhtar", "Michael Gambon", "Paul Higgins", "Olivia Williams", "Fenella Woolgar", "Julian Wadham"]
+   },
+   {
+        "title": "Rough Night",
+       "actors":["Scarlett Johansson", "Jillian Bell", "Zoë Kravitz", "Ilana Glazer", "Kate McKinnon", "Paul W. Downs", "Ryan Cooper", "Ty Burrell", "Demi Moore", "Enrique Murciano"]
+   },
+   {
+        "title": "My Little Pony: The Movie",
+       "actors":["Uzo Aduba", "Ashleigh Ball", "Adam Bengis", "Emily Blunt", "Kristin Chenoweth", "Michelle Creber", "Taye Diggs", "Brian Dobson", "Michael Dobson", "Andrea Libman"]
+   },
+   {
+        "title": "The Disaster Artist",
+       "actors":["Dave Franco", "James Franco", "Seth Rogen", "Ari Graynor", "Alison Brie", "Jacki Weaver", "Paul Scheer", "Zac Efron", "Josh Hutcherson", "June Diane Raphael"]
+   },
+   {
+        "title": "Phantom Thread",
+       "actors":["Vicky Krieps", "Daniel Day-Lewis", "Lesley Manville", "Julie Vollono", "Sue Clark", "Joan Brown", "Harriet Leitch", "Dinah Nicholson", "Julie Duck", "Maryanne Frost"]
+   },
+   {
+        "title": "Sleepless",
+       "actors":["Jamie Foxx", "Michelle Monaghan", "Scoot McNairy", "Dermot Mulroney", "T.I.", "David Harbour", "Gabrielle Union", "Octavius J. Johnson", "Tim Connolly", "Drew Sheer"]
+   },
+   {
+        "title": "Diary of a Wimpy Kid: The Long Haul",
+       "actors":["Jason Drucker", "Alicia Silverstone", "Tom Everett Scott", "Charlie Wright", "Owen Asztalos", "Dylan Walters", "Wyatt Walters", "Joshua Hoover", "Chris Coppola", "Mira Silverman"]
+   },
+   {
+        "title": "The Circle",
+       "actors":["Emma Watson", "Ellar Coltrane", "Glenne Headly", "Bill Paxton", "Karen Gillan", "Tom Hanks", "Beck", "Nate Corddry", "Mamoudou Athie", "Roger Joseph Manning Jr."]
+   }
+   ]
+}
