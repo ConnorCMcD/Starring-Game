@@ -3,9 +3,6 @@ html {
 }
 body { 
     height:100%;
-    display: -webkit-flex;
-    display: flex;
-    flex-flow: column;
     background-color: #222222;
     color: #DDDDDD;
     font-size: 2vw;
@@ -18,6 +15,16 @@ body {
 }
 .heading{
     text-align: center;
+}
+.settings{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    -webkit-justify-content: space-around;
+    justify-content: space-around;
+    flex-direction: column;
+    flex-flow: column;
 }
 .mdl-cell {
     box-sizing: border-box;
